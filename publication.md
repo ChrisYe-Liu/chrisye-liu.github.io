@@ -2,6 +2,6 @@
 layout: default
 title: Publication
 ---
-# Home page
+# Publication page
 
 This page shows the publications.
