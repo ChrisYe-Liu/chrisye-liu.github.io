@@ -1,10 +1,6 @@
 ## Welcome to GitHub Pages
----
-title: Home
----
 
-
-This is my DIY branch. 01
+This is my DIY branch. 02
 
 You can use the [editor on GitHub](https://github.com/ChrisYe-Liu/chrisye-liu.github.io/edit/my-DIY/index.md) to maintain and preview the content for your website in Markdown files.
 
