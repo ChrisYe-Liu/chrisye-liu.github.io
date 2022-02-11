@@ -1,3 +1,9 @@
+---
+layout: page
+title: Home
+permalink: /
+---
+
 ## Welcome to GitHub Pages
 
 This is my DIY branch. 
