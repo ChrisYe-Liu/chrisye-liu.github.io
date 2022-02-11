@@ -1,5 +1,1 @@
----
-title: Publication
----
-
-The page tells my publications 04
+The page tells my publications.
