@@ -81,8 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Ye Liu"
+  description      :  "Hello"
   avatar           : "ye-biophoto.JPG"
-  bio              : "Macao Young Scholar at Faculty of Information Technology, Macau University of Science and Technology"                    
+  bio              : "Macao Young Scholar // at Faculty of Information Technology, Macau University of Science and Technology"                    
   location         : "Taipa, Macau"
   employer         :
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
