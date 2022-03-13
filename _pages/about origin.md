@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-About me
+About me:
 ======
 
 
-Research Interest
+Research Interest:
 ======
 
-News
+News:
 ======
 
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)

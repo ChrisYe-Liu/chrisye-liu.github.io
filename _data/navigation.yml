@@ -9,6 +9,12 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Projects"
+    url: /projects/
+
+  - title: "Professional Activities"
+    url: /professional-activities/
+
   #- title: "Talks"
   #  url: /talks/    
 
