@@ -19,9 +19,11 @@ About Me
 TBD.
   
 Research Interest
-======
+---
 Internet of Things (IoT)
+
 Energy Harvesting
+
 Tiny Machine Learning
 
 
