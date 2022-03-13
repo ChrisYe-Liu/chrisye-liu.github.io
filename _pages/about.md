@@ -15,17 +15,17 @@ TBD.
 
 Research Interest
 ------
-Internet of Things (IoT)
+* Internet of Things (IoT)
 
-Energy Harvesting
+* Energy Harvesting
 
-Tiny Machine Learning
+* Tiny Machine Learning
 
 
 
 News
 ------
-[03/2022] Our paper "[EMU: Increasing the Performance and Applicability of LoRa
+- [03/2022] Our paper "[EMU: Increasing the Performance and Applicability of LoRa
 through Chirp Emulation, Snipping, and Multiplexing](https://chrisye-liu.github.io/files/yang22emu.pdf)" was accepted at IPSN'22!
 
 
