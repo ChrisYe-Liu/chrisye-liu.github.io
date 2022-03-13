@@ -11,20 +11,20 @@ redirect_from:
   
    
 
-About Me：
+About Me
 ======
  
  
  
-Research Interest：
+Research Interest
 ======
 
 
 
-Honors and Awards:
+Honors and Awards
 ======
 
 
-News：
+News
 ======
 
