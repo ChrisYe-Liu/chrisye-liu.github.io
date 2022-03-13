@@ -19,7 +19,7 @@ Executive Committee Membership
 ------
 
 
-Technical Program Committee (TPC)
+Technical Program Committee
 ------
 
 Reviewer
