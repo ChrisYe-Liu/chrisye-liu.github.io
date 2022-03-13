@@ -19,8 +19,6 @@ About Me
 Research Interest
 ======
 
-
-
 Honors and Awards
 ======
 
