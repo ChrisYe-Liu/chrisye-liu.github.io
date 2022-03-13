@@ -19,7 +19,9 @@ About Me
 Research Interest
 ======
 Internet of Things (IoT)
+
 Energy Harvesting
+
 Tiny Machine Learning
 
 
