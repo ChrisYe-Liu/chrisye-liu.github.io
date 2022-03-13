@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to My Homepage!"
+title: "Ye Liu (刘野)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,6 +10,9 @@ redirect_from:
  
   
    
+Welcome to My Homepage!
+======
+
 
 About Me
 ======
