@@ -30,6 +30,7 @@ Tiny Machine Learning
 
 
 News
+======
 ------
 [03/2022] Our paper “[EMU: Increasing the Performance and Applicability of LoRa
 through Chirp Emulation, Snipping, and Multiplexing](https://chrisye-liu.github.io/files/yang22emu.pdf)”was accepted at IPSN'22!
