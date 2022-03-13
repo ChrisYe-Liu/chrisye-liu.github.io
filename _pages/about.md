@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Ye Liu (刘野)"
-excerpt: "About me"
+#title: ""
+#excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
