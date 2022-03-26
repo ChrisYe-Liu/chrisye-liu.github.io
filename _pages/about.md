@@ -10,7 +10,7 @@ redirect_from:
  
 About Me
 ------
-TBD.
+I am currently a Macao Young Scholar, supervised by Prof. Ying-Chang Liang and Dr. Dong Li, in the School of Computer Science (formerly Faculty of Information Technology), Macau University of Science and Technology. Before that, I was worked at Nanjing Agricultural University from 2018 to 2021. I received the Ph.D. degree from the School of Electronic Science & Engineering, Southeast University, in 2018. During my Ph.D. period, I was a Visiting Scholar with Montana State University from October 2014 to October 2015, supervised by Dr. Qing Yang, and a visiting Ph.D. Student from February 2017 to January 2018 with the Networked Embedded Systems Group, RISE Swedish Institute of Computer Science, supervised by Prof. Thiemo Voigt. 
 
 
 Research Interest
