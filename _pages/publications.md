@@ -17,7 +17,7 @@ $\color{red}{[IEM]}$
 
 $\color{red}{[TII]}$
 **Ye Liu**, Xiaoyuan Ma, Lei Shu, Gerhard Petrus Hancke, and Adnan M. Abu-Mahfouz,"**From Industry 4.0 to Agriculture 4.0: Current Status, Enabling Technologies, and Research Challenges**", *IEEE Transactions on Industrial Informatics*, 2020. 
-(<font color=#FF0000 >**ESI Highly Cited Paper TOP 1\%**</font>)
+($\color{red}{**ESI Highly Cited Paper TOP 1\%**})
 
 $\color{red}{[NetMag]}$
 **Ye Liu**, Xiaoyuan Ma, Lei Shu, Qing Yang, Yu Zhang, Zhiqiang Huo, and Zhangbing Zhou,"**Internet of Things for Noise Mapping in Smart Cities: State-of-the-Art and Future Directions**", *IEEE Network*, 2020.
