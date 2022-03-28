@@ -10,14 +10,13 @@ Journals
 ------
 $\color{red}{[WCM]}$
 **Ye Liu**, Dong Li, Bangsong Du, Lei Shu, and Guangjie Han,"**Rethinking Sustainable Sensing in Agricultural Internet of Things: From Power Supply Perspective**", *IEEE Wireless Communications*, 2022.
-[PDF](https://chrisye-liu.github.io/files/ye22poweredge)
 
 $\color{red}{[IEM]}$
 **Ye Liu**, Lei Shu, Zhiqiang Huo, Kim-Fung Tsang, and Gerhard Petrus Hancke,"**Collaborative Industrial Internet of Things for Noise Mapping: Prospects and Research Opportunities**", *IEEE Industrial Electronics Magazine*, 2021.
 
 $\color{red}{[TII]}$
 **Ye Liu**, Xiaoyuan Ma, Lei Shu, Gerhard Petrus Hancke, and Adnan M. Abu-Mahfouz,"**From Industry 4.0 to Agriculture 4.0: Current Status, Enabling Technologies, and Research Challenges**", *IEEE Transactions on Industrial Informatics*, 2020. 
-($\color{red}{**ESI Highly Cited Paper TOP 1\%**})
+(**ESI Highly Cited Paper TOP 1\%**)
 
 $\color{red}{[NetMag]}$
 **Ye Liu**, Xiaoyuan Ma, Lei Shu, Qing Yang, Yu Zhang, Zhiqiang Huo, and Zhangbing Zhou,"**Internet of Things for Noise Mapping in Smart Cities: State-of-the-Art and Future Directions**", *IEEE Network*, 2020.
