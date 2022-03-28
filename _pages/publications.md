@@ -32,7 +32,7 @@ Qi Chen, **Ye Liu**, Guangchi Liu, Qing Yang, Xianming Shi, Hongwei Gao, Lu Su, 
 
 $\color{red}{[ComMag]}$
 **Ye Liu**, Qi Chen, Guangchi Liu, Hao Liu, and Qiang Yang,"**EcoSense: A Hardware Approach to On-Demand Sensing in the Internet of Things**", *IEEE Communications Magazine*, 2016.
-
+[PDF](https://chrisye-liu.github.io/files/ye16EcoSense.pdf)
 
 
 Conferences
