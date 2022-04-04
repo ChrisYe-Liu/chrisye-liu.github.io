@@ -7,25 +7,25 @@ author_profile: true
  
 Honors and Awards
 ------
-2021：Advanced individual member of Jiangsu Computer Society (江苏省计算机学会先进个人会员)
+* 2021：Advanced individual member of Jiangsu Computer Society (江苏省计算机学会先进个人会员)
 
-2021：Winning Prize of The 1st China Postdoctoral Innovation & Entrepreneurship Competition (全国博士后创新创业大赛总决赛优胜奖)
+* 2021：Winning Prize of The 1st China Postdoctoral Innovation & Entrepreneurship Competition (全国博士后创新创业大赛总决赛优胜奖)
 
-2021：Macau Young Scholar (澳门青年学者计划)
+* 2021：Macau Young Scholar (澳门青年学者计划)
 
-2020：Outstanding Presentation Awards at 3rd Postdoctoral Academic Conference of NJAU (第三届南京农业大学钟山博士后青年学者论坛十佳报告)
+* 2020：Outstanding Presentation Awards at 3rd Postdoctoral Academic Conference of NJAU (第三届南京农业大学钟山博士后青年学者论坛十佳报告)
 
-2019：Outstanding Presentation Awards at 2nd Postdoctoral Academic Conference of NJAU (第二届南京农业大学钟山博士后青年学者论坛十佳报告)
+* 2019：Outstanding Presentation Awards at 2nd Postdoctoral Academic Conference of NJAU (第二届南京农业大学钟山博士后青年学者论坛十佳报告)
 
-2019：The 1st Place of Dependability Competition at EWSN 2019 (EWSN物联网可靠通信国际挑战赛冠军)
+* 2019：The 1st Place of Dependability Competition at EWSN 2019 (EWSN物联网可靠通信国际挑战赛冠军)
 
-2016：Study Abroad Scholarship of China Scholarship Council (国家公派联合培养博士)
+* 2016：Study Abroad Scholarship of China Scholarship Council (国家公派联合培养博士)
 
-2014：Study Abroad Scholarship of Southeast University (东南大学公派访问学者)
+* 2014：Study Abroad Scholarship of Southeast University (东南大学公派访问学者)
 
-2013：Graduate Student Innovation Project of Jiangsu Province (江苏省优秀硕士论文)
+* 2013：Graduate Student Innovation Project of Jiangsu Province (江苏省优秀硕士论文)
 
-2013：Outstanding Master Thesis Award of Southeast University (东南大学优秀硕士论文)
+* 2013：Outstanding Master Thesis Award of Southeast University (东南大学优秀硕士论文)
 
 
 
