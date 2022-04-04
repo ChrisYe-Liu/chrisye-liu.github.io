@@ -33,7 +33,7 @@ Editorship
 ------
 IEEE MMTC Review (December 2018 - Now)
 
-Electronics,"Electronics for Agriculture", (Guest Editor, 2021)
+Electronics,"Electronics for Agriculture" (Guest Editor, 2021)
 
 
 
