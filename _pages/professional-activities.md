@@ -52,19 +52,12 @@ The Conference on Innovation in Clouds, Internet and Networks (ICIN) 2020, 2021,
 Reviewer
 ------
 IEEE Communications Magazine
-
 IEEE Transactions on Industrial Informatics
-
 IEEE Transactions on Wireless Communications
-
 IEEE Internet of Things Journal
-
 Springer Mobile Networks and Applications
-
 KeAi Digital Communications and Networks
-
 Elsevier Journal of Systems Architecture
-
 Journal of Circuits, Systems, and Computers
 
 
