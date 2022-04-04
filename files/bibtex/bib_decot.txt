@@ -1,0 +1,14 @@
+@inproceedings{10.5555/3324320.3324385,
+author = {Ma, Xiaoyuan and Zhang, Peilin and Liu, Ye and Li, Xin and Tang, Weisheng and Tian, Pei and Wei, Jianming and Shu, Lei and Theel, Oliver},
+title = {Competition: Using DeCoT+ to Collect Data under Interference},
+year = {2019},
+isbn = {9780994988638},
+publisher = {Junction Publishing},
+address = {USA},
+abstract = {Toward the scenario of data collection in EWSN 2019 Dependability Competition, we base our design on the efficient concurrent transmission. Moreover, there are two critical mechanisms to guarantee the dependability of the protocol, i.e., the channel-hopping and the network initiation. The Dependable Concurrent Transmission-based protocol (DeCoT) performs effectively in the past competitions where an event was represented as a tiny payload. Variable lengths of payloads and dynamic traffic loads are new challenges appearing in the EWSN 2019 Dependability Competition. A Consistency Strategy and a Network Coding (ConNec) are functional to overcome the challenges. Therefore, we propose DeCoT+, DeCoT with ConNeC, that oughts to work effectively in a dynamic (heavy or light) traffic loads under interference. Besides, the network coding strategy could improve the reliability of the network, where nodes communicate with long packets, e.g., 64 bytes.},
+booktitle = {Proceedings of the 2019 International Conference on Embedded Wireless Systems and Networks},
+pages = {290–291},
+numpages = {2},
+location = {Beijing, China},
+series = {EWSN '19}
+}
