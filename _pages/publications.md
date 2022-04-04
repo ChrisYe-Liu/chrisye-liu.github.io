@@ -55,7 +55,7 @@ Pei Tian, Xiaoyuan Ma, Carlo Alberto Boano, **Ye Liu**, Fengxu Yang, Xin Tian, D
 
 $\color{red}{[ICNP]}$
 Michael Baddeley, Carlo Alberto Boano, Antonio Escobar-Molero, **Ye Liu**, Xiaoyuan Ma, Usman Raza, Kay Römer, Markus Schuß, and Aleksandar Stanoev,"**The Impact of the Physical Layer on the Performance of Concurrent Transmissions**", *The 28th IEEE International Conference on Network Protocols (ICNP)*, 2020.
-[PDF](https://chrisye-liu.github.io/files/michael20ct.pdf) [BibTex](https://chrisye-liu.github.io/files/bibtex/bib_ct.txt) [Link]()
+[PDF](https://chrisye-liu.github.io/files/michael20ct.pdf) [BibTex](https://chrisye-liu.github.io/files/bibtex/bib_ct.txt) [Link](https://ieeexplore.ieee.org/document/9259407)
 
 $\color{red}{[INFOCOM]}$
 Xiaoyuan Ma, Peilin Zhang, **Ye Liu**, Carlo Alberto Boano, Hyung-Sin Kim, Jianming Wei, and Jun Huang,"**Harmony: Saving Concurrent Transmissions from Harsh RF Interference**", *The 39th IEEE International Conference on Computer Communications (INFOCOM)*, 2020.
