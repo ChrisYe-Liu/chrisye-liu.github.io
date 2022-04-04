@@ -16,10 +16,9 @@ I am currently a Macao Young Scholar in the School of Computer Science and Engin
 Research Interest
 ------
 * Internet of Things
-
 * Energy Harvesting
-
 * Tiny Machine Learning
+* Smart Agriculture, Smart City, Noise Mapping
 
 
 
