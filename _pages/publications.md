@@ -93,3 +93,8 @@ Guangchi Liu, Qi Chen, **Ye Liu**, and Qing Yang,"**Localization in Cyber-Physic
 
 Thesis
 ------
+$\color{red}{[PhD}$
+$\color{red}{Thesis]}$
+**Ye Liu**,"**Key Technologies Research of Wireless Sensor Network for Event-Driven Applications (面向事件驱动型应用的无线传感器网络关键技术研究)**", 2018.
+[CAJ File](https://chrisye-liu.github.io/files/ye18event.caj) [Link](https://kns-cnki-net-s.vpn2.njau.edu.cn:8118/kcms/detail/detail.aspx?dbcode=CDFD&dbname=CDFDLAST2019&filename=1019650143.nh&uniplatform=NZKPT&v=xQw-v8m5vD9gwv6kKPWxgcGNYenFDE6pyk0BifWEXIDjYQj4wLibnpFN-7v3ebh0)
+
