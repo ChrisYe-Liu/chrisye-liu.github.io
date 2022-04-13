@@ -54,7 +54,7 @@ Pei Tian, Fengxu Yang, Xiaoyuan Ma, Carlo Alberto Boano, Xin Tian, **Ye Liu**, a
 
 $\color{red}{[EWSN]}$
 Pei Tian, Xiaoyuan Ma, Carlo Alberto Boano, **Ye Liu**, Fengxu Yang, Xin Tian, Dan Li, and Jianming Wei,"**ChripBox: An Infrastructure-Less LoRa Testbed**", *The International Conference on Embedded Wireless Systems and Networks (EWSN)*, 2021.
-(Best Paper Nominee)
+(**Best Paper Nominee**)
 [PDF](https://chrisye-liu.github.io/files/pei21chirpbox.pdf) [BibTex](https://chrisye-liu.github.io/files/bibtex/bib_chirpbox.txt) [Link](https://dl.acm.org/doi/10.5555/3451271.3451282) [Website](https://chirpbox.github.io/) [Video](https://www.youtube.com/watch?v=VfcPNJ-Kj-I) 
 
 $\color{red}{[ICNP]}$
@@ -67,6 +67,7 @@ Xiaoyuan Ma, Peilin Zhang, **Ye Liu**, Carlo Alberto Boano, Hyung-Sin Kim, Jianm
 
 $\color{red}{[EWSN]}$
 Xiaoyuan Ma, Peilin Zhang, **Ye Liu**, Xin Li, Weisheng Tang, Pei Tian, Jianming Wei, Lei Shu, and Oliver Theel,"**Competition: Using DeCoT+ to Collect Data under Interference**", *The International Conference on Embedded Wireless Systems and Networks (EWSN)*, 2019.
+[BibTex](https://chrisye-liu.github.io/files/bibtex/bib_decot.txt) [Link](https://dl.acm.org/doi/10.5555/3324320.3324385)
 
 $\color{red}{[ICC]}$
 **Ye Liu**, Hao Liu, Qing Yang, and Shaoen Wu,"**RM-MAC: A Routing-Enhanced Multi-Channel MAC Protocol in Duty-cycle Sensor
