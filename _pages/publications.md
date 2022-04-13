@@ -85,7 +85,7 @@ Poster & Demos
 $\color{red}{[EWSN]}$
 Fan Yang, Lei Shu, **Ye Liu**, Kailiang Li, Kai Huang, Yu Zhang, and Yuanhao Sun,"**Poster: Photovoltaic Agricultural Internet of Things -
 the Next Generation of Smart Farming**", *The International Conference on Embedded Wireless Systems and Networks (EWSN)*, 2019. 
-[PDF](https://chrisye-liu.github.io/files/paiot.pdf) [BibTex](https://chrisye-liu.github.io/files/bibtex/bib_paiot.txt) [Link](https://dl.acm.org/doi/10.5555/3324320.3324361)
+[PDF](https://chrisye-liu.github.io/files/fan19paiot.pdf) [BibTex](https://chrisye-liu.github.io/files/bibtex/bib_paiot.txt) [Link](https://dl.acm.org/doi/10.5555/3324320.3324361)
 
 Book Chapters
 ------
