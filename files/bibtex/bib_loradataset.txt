@@ -1,0 +1,17 @@
+@inproceedings{10.1145/3485730.3493696,
+author = {Tian, Pei and Yang, Fengxu and Ma, Xiaoyuan and Boano, Carlo Alberto and Tian, Xin and Liu, Ye and Wei, Jianming},
+title = {Environmental Impact on the Long-Term Connectivity and Link Quality of an Outdoor LoRa Network},
+year = {2021},
+isbn = {9781450390972},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3485730.3493696},
+doi = {10.1145/3485730.3493696},
+abstract = {Recently, several datasets shedding light on connectivity aspects in real-world LoRa networks have been provided to the community. However, they typically only involve a limited number of nodes, deal with unidirectional communication only, or focus on very specific physical layer settings. More importantly, existing datasets typically lack fine-grained environmental information such as the temperature in the surroundings of each node, which is known to have a strong impact on communication performance. In this work, we provide the community with a comprehensive dataset that fills all these gaps. We have collected detailed connectivity information in an outdoor LoRa network composed of 21 nodes for more than four months. Our dataset does not only focus on network-level performance (e.g., the average number of correctly-exchanged packets), but sheds light on link-level information such as the received signal strength, signal-to-noise ratio, and the number of available neighbours over time. We further collect environmental information from an online weather site, as well as the on-board temperature of each node in the network, which varies considerably across the deployed locations. We collect all this information while perpetually changing physical layer settings such as the spreading factor and the RF channel. A preliminary analysis of our dataset, which is available in Zenodo1, reveals that temperature has a significant correlation with the link quality and connectivity in the outdoor LoRa network, confirming the findings of earlier studies.},
+booktitle = {Proceedings of the 19th ACM Conference on Embedded Networked Sensor Systems},
+pages = {565–568},
+numpages = {4},
+keywords = {Weather, LoRa, Connectivity, Internet of Things, Temperature, Physical layer settings, ChirpBox, SX1276, Link quality},
+location = {Coimbra, Portugal},
+series = {SenSys '21}
+}

@@ -50,9 +50,12 @@ Fengxu Yang, Pei Tian, Xiaoyuan Ma, Carlo Alberto Boano, **Ye Liu**, and Jianmin
 
 $\color{red}{[SenSys-DATA]}$
 Pei Tian, Fengxu Yang, Xiaoyuan Ma, Carlo Alberto Boano, Xin Tian, **Ye Liu**, and Jianming Wei,"**Dataset: Environmental Impact on the Long-Term Connectivity and Link Quality of an Outdoor LoRa Network**", *The 4th International Workshop of Data Acquisition to Analysis (DATA) in SenSys*, 2021.
+[PDF](https://chrisye-liu.github.io/files/pei21loradataset.pdf) [BibTex](https://chrisye-liu.github.io/files/bibtex/bib_loradataset.txt) [Link](https://dl.acm.org/doi/10.1145/3485730.3493696) [Dataset](https://zenodo.org/record/5594944#.YlZwB8hvpYs)
 
 $\color{red}{[EWSN]}$
 Pei Tian, Xiaoyuan Ma, Carlo Alberto Boano, **Ye Liu**, Fengxu Yang, Xin Tian, Dan Li, and Jianming Wei,"**ChripBox: An Infrastructure-Less LoRa Testbed**", *The International Conference on Embedded Wireless Systems and Networks (EWSN)*, 2021.
+(Best Paper Nominee)
+[PDF](https://chrisye-liu.github.io/files/pei21chirpbox.pdf) [BibTex](https://chrisye-liu.github.io/files/bibtex/bib_chirpbox.txt) [Link](https://dl.acm.org/doi/10.5555/3451271.3451282) [Website](https://chirpbox.github.io/) [Video](https://www.youtube.com/watch?v=VfcPNJ-Kj-I) 
 
 $\color{red}{[ICNP]}$
 Michael Baddeley, Carlo Alberto Boano, Antonio Escobar-Molero, **Ye Liu**, Xiaoyuan Ma, Usman Raza, Kay Römer, Markus Schuß, and Aleksandar Stanoev,"**The Impact of the Physical Layer on the Performance of Concurrent Transmissions**", *The 28th IEEE International Conference on Network Protocols (ICNP)*, 2020.
