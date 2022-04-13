@@ -34,6 +34,7 @@ $\color{red}{[PPNA]}$
 
 $\color{red}{[TECS]}$
 Qi Chen, **Ye Liu**, Guangchi Liu, Qing Yang, Xianming Shi, Hongwei Gao, Lu Su, and Quanlong Li,"**Harvest Energy from the Water: A Self-Sustained Wireless Water Quality Sensing System**", *ACM Transactions on Embedded Computing Systems*, 2017.
+[PDF](https://chrisye-liu.github.io/files/qi17watersensing.pdf) [BibTex](https://chrisye-liu.github.io/files/bibtex/bib_water.txt) [Link](https://dl.acm.org/doi/10.1145/3047646)
 
 $\color{red}{[ComMag]}$
 **Ye Liu**, Qi Chen, Guangchi Liu, Hao Liu, and Qiang Yang,"**EcoSense: A Hardware Approach to On-Demand Sensing in the Internet of Things**", *IEEE Communications Magazine*, 2016.
