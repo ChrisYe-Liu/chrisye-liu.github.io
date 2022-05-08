@@ -48,6 +48,8 @@ IEEE Transactions on Industrial Informatics
 
 IEEE Transactions on Wireless Communications
 
+IEEE Transactions on Computational Social Systems
+
 IEEE Internet of Things Journal
 
 Springer Mobile Networks and Applications
