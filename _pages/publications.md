@@ -8,8 +8,8 @@ author_profile: true
 Journals
 ------
 $\color{red}{[WCM]}$
-**Ye Liu**, Dong Li, Bangsong Du, Lei Shu, and Guangjie Han,"**Rethinking Sustainable Sensing in Agricultural Internet of Things: From Power Supply Perspective**", *IEEE Wireless Communications*, 2022. (To be published) 
-[PDF](https://chrisye-liu.github.io/files/ye22poweredge.pdf) 
+**Ye Liu**, Dong Li, Bangsong Du, Lei Shu, and Guangjie Han,"**Rethinking Sustainable Sensing in Agricultural Internet of Things: From Power Supply Perspective**", *IEEE Wireless Communications*, 2022. 
+[PDF](https://chrisye-liu.github.io/files/ye22poweredge.pdf) [BibTex](https://chrisye-liu.github.io/files/bibtex/bib_poweredge.txt) [Link](https://ieeexplore.ieee.org/document/9770091)
 
 $\color{red}{[IEM]}$
 **Ye Liu**, Lei Shu, Zhiqiang Huo, Kim-Fung Tsang, and Gerhard Petrus Hancke,"**Collaborative Industrial Internet of Things for Noise Mapping: Prospects and Research Opportunities**", *IEEE Industrial Electronics Magazine*, 2021.
