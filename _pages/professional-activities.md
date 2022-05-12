@@ -40,6 +40,8 @@ IEEE International Conference on Communications(ICC), Symposium on Next-Generati
 
 The Conference on Innovation in Clouds, Internet and Networks (ICIN) 2020, 2021, 2022
 
+IEEE International Conference on Internet of Things (iThings) 2022
+
 Reviewer
 ------
 IEEE Communications Magazine
