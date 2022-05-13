@@ -30,6 +30,8 @@ Electronics,"Electronics for Agriculture" (Guest Editor, 2021)
 
 Executive Committee Membership
 ------
+The International Conference on Internet of Things and Intelligent Applications (ITIA), TPC Co-Chairs, 2022
+
 IEEE International Conference on Omni-layer Intelligent Systems (COINS), Publicity Chair, 2021
 
 The 3rd IEEE International Conference on Smart City Innovations (SCI), Web Chair, 2019
