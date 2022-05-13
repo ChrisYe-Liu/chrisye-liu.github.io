@@ -44,7 +44,7 @@ The Conference on Innovation in Clouds, Internet and Networks (ICIN) 2020, 2021,
 
 IEEE International Conference on Internet of Things (iThings) 2022
 
-The 6th APWeb-WAIM International Joint Conference on Web and Big Data 2022
+ The Asia Pacific Web (APWeb) and Web-Age Information Management (WAIM) Joint International Conference 2022
 
 Reviewer
 ------
