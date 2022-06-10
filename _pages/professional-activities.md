@@ -58,6 +58,8 @@ IEEE Transactions on Computational Social Systems
 
 IEEE Internet of Things Journal
 
+China Communications
+
 Springer Mobile Networks and Applications
 
 KeAi Digital Communications and Networks
