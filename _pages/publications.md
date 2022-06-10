@@ -17,7 +17,7 @@ $\color{red}{[IEM]}$
 
 $\color{red}{[TII]}$
 **Ye Liu**, Xiaoyuan Ma, Lei Shu, Gerhard Petrus Hancke, and Adnan M. Abu-Mahfouz,"**From Industry 4.0 to Agriculture 4.0: Current Status, Enabling Technologies, and Research Challenges**", *IEEE Transactions on Industrial Informatics*, 2020. 
-(**ESI Highly Cited Paper TOP 1%**)
+(**ESI Highly Cited Paper TOP 1%** **ESI Hot Cited Paper TOP 0.1%**)
 [PDF](https://chrisye-liu.github.io/files/ye20agriculture4.pdf) [BibTex](https://chrisye-liu.github.io/files/bibtex/bib_agriculture4.txt) [Link](https://ieeexplore.ieee.org/document/9122412)
 
 $\color{red}{[NetMag]}$
