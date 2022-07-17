@@ -1,0 +1,9 @@
+@ARTICLE{9122412,
+  author={Liu, Ye and Ma, Xiaoyuan and Shu, Lei and Hancke, Gerhard Petrus and Abu-Mahfouz, Adnan M.},
+  journal={IEEE Transactions on Industrial Informatics}, 
+  title={From Industry 4.0 to Agriculture 4.0: Current Status, Enabling Technologies, and Research Challenges}, 
+  year={2021},
+  volume={17},
+  number={6},
+  pages={4322-4334},
+  doi={10.1109/TII.2020.3003910}}

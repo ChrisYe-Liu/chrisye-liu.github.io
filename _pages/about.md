@@ -1,8 +1,33 @@
 ---
-permalink: /about/
-title: "About"
+permalink: /
+title: "Welcome to My Homepage!"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
+ 
+About Me
+------
+I am currently a Macao Young Scholar in the School of Computer Science and Engineering, Macau University of Science and Technology, supervised by [Prof. Ying-Chang Liang](https://scholar.google.com.sg/citations?user=HybIiJ8AAAAJ&hl=en) and [Dr. Dong Li](https://www.must.edu.mo/en/fi/staff/lidong). Before that, I was worked at Nanjing Agricultural University from 2018 to 2021. I received the Ph.D. degree from the School of Electronic Science & Engineering, Southeast University, in 2018. During my Ph.D. period, I was a Visiting Scholar with Montana State University from October 2014 to October 2015, supervised by [Dr. Qing Yang](http://www.cse.unt.edu/~qingyang/), and a Joint Ph.D. Student from February 2017 to January 2018 with the Networked Embedded Systems Group, RISE Swedish Institute of Computer Science, supervised by [Prof. Thiemo Voigt](https://katalog.uu.se/profile/?id=N2-279). 
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Research Interest
+------
+* Internet of Things
+* Energy Harvesting
+* Tiny Machine Learning
+* Smart Agriculture, Smart City, Noise Mapping
+
+
+
+News
+------
+* [07/2022] Invited to serve as TPC member for [IEEE ICC'23 - NGNI Symposium](https://icc2023.ieee-icc.org/).
+* [06/2022] Our paper "[From Industry 4.0 to Agriculture 4.0: Current Status, Enabling Technologies, and Research Challenges](https://chrisye-liu.github.io/files/ye20agriculture4.pdf)" was placed in the top 0.1% of papers in the academic field of Engineering ([ESI Hot Paper](https://chrisye-liu.github.io/files/agri4hotpaper.pdf))!
+* [05/2022] Our paper "[Rethinking Sustainable Sensing in Agricultural Internet of Things: From Power Supply Perspective](https://chrisye-liu.github.io/files/ye22poweredge.pdf)" was published at IEEE Wireless Communications!
+* [03/2022] Our paper "[EMU: Increasing the Performance and Applicability of LoRa
+through Chirp Emulation, Snipping, and Multiplexing](https://chrisye-liu.github.io/files/yang22emu.pdf)" was accepted at IPSN'22!
+
+

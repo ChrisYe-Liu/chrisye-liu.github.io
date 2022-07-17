@@ -1,0 +1,9 @@
+@INPROCEEDINGS{9155423,
+  author={Ma, Xiaoyuan and Zhang, Peilin and Liu, Ye and Boano, Carlo Alberto and Kim, Hyung-Sin and Wei, Jianming and Huang, Jun},
+  booktitle={IEEE INFOCOM 2020 - IEEE Conference on Computer Communications}, 
+  title={Harmony: Saving Concurrent Transmissions from Harsh RF Interference}, 
+  year={2020},
+  volume={},
+  number={},
+  pages={1024-1033},
+  doi={10.1109/INFOCOM41043.2020.9155423}}

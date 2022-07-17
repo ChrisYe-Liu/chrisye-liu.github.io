@@ -1,0 +1,9 @@
+@ARTICLE{8445576,
+  author={Liu, Ye and Voigt, Thiemo and Wirström, Niklas and Höglund, Joel},
+  journal={IEEE Internet of Things Journal}, 
+  title={EcoVibe: On-Demand Sensing for Railway Bridge Structural Health Monitoring}, 
+  year={2019},
+  volume={6},
+  number={1},
+  pages={1068-1078},
+  doi={10.1109/JIOT.2018.2867086}}
