@@ -24,6 +24,7 @@ Research Interest
 
 News
 ------
+* [07/2022] Invited to serve as TPC member for [IEEE ICC'23 - NGNI Symposium](https://icc2023.ieee-icc.org/).
 * [06/2022] Our paper "[From Industry 4.0 to Agriculture 4.0: Current Status, Enabling Technologies, and Research Challenges](https://chrisye-liu.github.io/files/ye20agriculture4.pdf)" was placed in the top 0.1% of papers in the academic field of Engineering ([ESI Hot Paper](https://chrisye-liu.github.io/files/agri4hotpaper.pdf))!
 * [05/2022] Our paper "[Rethinking Sustainable Sensing in Agricultural Internet of Things: From Power Supply Perspective](https://chrisye-liu.github.io/files/ye22poweredge.pdf)" was published at IEEE Wireless Communications!
 * [03/2022] Our paper "[EMU: Increasing the Performance and Applicability of LoRa
