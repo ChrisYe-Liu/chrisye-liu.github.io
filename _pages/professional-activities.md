@@ -7,7 +7,7 @@ author_profile: true
  
 Honors and Awards
 ------
-* 2022：Honor for lights of future-future network technology innovation contest (未来网络科技创新大赛二等奖，指导老师)
+* 2022：Honor for lights of future-future network technology innovation contest (未来网络科技创新大赛二等奖，指导老师) [[Certificate](https://chrisye-liu.github.io/files/certificate/2022lightaward.jpg)]
 * 2021：Advanced individual member of Jiangsu Computer Society (江苏省计算机学会先进个人会员)
 * 2021：Winning Prize of The 1st China Postdoctoral Innovation & Entrepreneurship Competition (全国博士后创新创业大赛总决赛优胜奖)
 * 2021：Macau Young Scholar (澳门青年学者计划)
@@ -43,7 +43,7 @@ Technical Program Committee
 ------
 IEEE International Conference on Communications(ICC), Symposium on Next-Generation Networking & Internet 2021, 2022, 2023
 
-The Conference on Innovation in Clouds, Internet and Networks (ICIN) 2020, 2021, 2022
+The Conference on Innovation in Clouds, Internet and Networks (ICIN) 2020, 2021, 2022, 2023
 
 IEEE International Conference on Internet of Things (iThings) 2022
 
