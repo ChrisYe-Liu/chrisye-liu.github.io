@@ -54,6 +54,8 @@ IEEE Transactions on Industrial Informatics
 
 IEEE Transactions on Wireless Communications
 
+IEEE Transactions on Vehicular Technology
+
 IEEE Transactions on Computational Social Systems
 
 IEEE Internet of Things Journal
@@ -65,6 +67,8 @@ Springer Mobile Networks and Applications
 KeAi Digital Communications and Networks
 
 Elsevier Journal of Systems Architecture
+
+Elsevier Vehicular Communications
 
 Journal of Circuits, Systems, and Computers
 
