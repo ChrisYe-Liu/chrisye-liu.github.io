@@ -24,9 +24,9 @@ Research Interest
 
 News
 ------
-
 * [10/2022] Our paper "[Understanding the Impact of Environmental Conditions on Zero-Power Internet of Things: An Experimental Evaluation](https://ieeexplore.ieee.org/document/9928079)" was published at IEEE Wireless Communications!
-* [08/2022] Our work, ChirpBox, has been awarded as the second place at [the 2022 Lights of Future – Future Network Technology and Innovation Competition!](https://chrisye-liu.github.io/files/2022lightaward.jpg).
+* [10/2022] Invited to serve as TPC member for [IEEE ICIN'23](https://www.icin-conference.org/).
+* [08/2022] Our work, [ChirpBox](https://chirpbox.github.io/), has been awarded as the second place at [the 2022 Lights of Future – Future Network Technology and Innovation Competition!](https://chrisye-liu.github.io/files/2022lightaward.jpg).
 * [07/2022] Invited to serve as TPC member for [IEEE ICC'23 - NGNI Symposium](https://icc2023.ieee-icc.org/).
 * [06/2022] Our paper "[From Industry 4.0 to Agriculture 4.0: Current Status, Enabling Technologies, and Research Challenges](https://chrisye-liu.github.io/files/ye20agriculture4.pdf)" was placed in the top 0.1% of papers in the academic field of Engineering ([ESI Hot Paper](https://chrisye-liu.github.io/files/agri4hotpaper.pdf))!
 * [05/2022] Our paper "[Rethinking Sustainable Sensing in Agricultural Internet of Things: From Power Supply Perspective](https://chrisye-liu.github.io/files/ye22poweredge.pdf)" was published at IEEE Wireless Communications!
