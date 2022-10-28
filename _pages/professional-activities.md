@@ -7,6 +7,7 @@ author_profile: true
  
 Honors and Awards
 ------
+* 2022：Honor for lights of future-future network technology innovation contest (未来网络科技创新大赛二等奖，指导老师)
 * 2021：Advanced individual member of Jiangsu Computer Society (江苏省计算机学会先进个人会员)
 * 2021：Winning Prize of The 1st China Postdoctoral Innovation & Entrepreneurship Competition (全国博士后创新创业大赛总决赛优胜奖)
 * 2021：Macau Young Scholar (澳门青年学者计划)
@@ -22,9 +23,11 @@ Honors and Awards
 
 Editorship
 ------
-IEEE MMTC Review (December 2018 - Now)
+IEEE MMTC Review (Editor, December 2018 - Now)
 
-Electronics,"Electronics for Agriculture" (Guest Editor, 2021)
+Journal of Sensor and Actuator Networks, "[Backscatter Communications for Battery-Free Internet of Things](https://www.mdpi.com/journal/jsan/special_issues/DL254URC47)" (Guest Editor, 2021)
+
+Electronics,"[Electronics for Agriculture](https://www.mdpi.com/journal/electronics/topical_collections/eagriculture_electronics)" (Guest Editor, 2021)
 
 
 
