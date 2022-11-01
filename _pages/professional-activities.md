@@ -25,7 +25,7 @@ Editorship
 ------
 IEEE MMTC Review (Editor, December 2018 - Now)
 
-IEEE Network, "[Connected and Autonomous Vehicles](https://www.comsoc.org/publications/magazines/ieee-network/cfp/connected-and-autonomous-vehicles)" (Guest Editor, 2021)
+IEEE Network, "[Connected and Autonomous Vehicles](https://www.comsoc.org/publications/magazines/ieee-network/cfp/connected-and-autonomous-vehicles)" (Guest Editor, 2022)
 
 Journal of Sensor and Actuator Networks, "[Backscatter Communications for Battery-Free Internet of Things](https://www.mdpi.com/journal/jsan/special_issues/DL254URC47)" (Guest Editor, 2021)
 
