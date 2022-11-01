@@ -9,5 +9,11 @@ author_profile: true
 TBD.
 
 ------
-{% include figure image_path="/images/foo-bar-identity.jpg" alt="this is a placeholder image" caption="This is a figure caption." %}
+
+gallery:
+  - url: /images/foo-bar-identity.jpg
+    image_path: /images/foo-bar-identity.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+
 ------
