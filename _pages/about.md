@@ -34,6 +34,3 @@ News
 * [03/2022] Our paper "[EMU: Increasing the Performance and Applicability of LoRa
 through Chirp Emulation, Snipping, and Multiplexing](https://chrisye-liu.github.io/files/yang22emu.pdf)" was accepted at IPSN'22!
 
-<body>
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=mBijBJ5D94MAVLqFRufg40ogHIrBiF1-SbfwZoVNwnY&cl=ffffff&w=a"></script>
-<body>
