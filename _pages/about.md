@@ -24,6 +24,7 @@ Research Interest
 
 News
 ------
+* [11/2022] Serve as Guest Editor for IEEE Network Special Issue [“Connected and Autonomous Vehicles”](https://www.comsoc.org/publications/magazines/ieee-network/cfp/connected-and-autonomous-vehicles).
 * [10/2022] Our paper "[Understanding the Impact of Environmental Conditions on Zero-Power Internet of Things: An Experimental Evaluation](https://ieeexplore.ieee.org/document/9928079)" was published at IEEE Wireless Communications!
 * [10/2022] Invited to serve as TPC member for [IEEE ICIN'23](https://www.icin-conference.org/).
 * [08/2022] Our work, [ChirpBox](https://chirpbox.github.io/), has been awarded as the second place at [the 2022 Lights of Future – Future Network Technology and Innovation Competition!](https://chrisye-liu.github.io/files/certificate/2022lightaward.jpg).
