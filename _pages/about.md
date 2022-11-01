@@ -33,4 +33,5 @@ News
 * [05/2022] Our paper "[Rethinking Sustainable Sensing in Agricultural Internet of Things: From Power Supply Perspective](https://chrisye-liu.github.io/files/ye22poweredge.pdf)" was published at IEEE Wireless Communications!
 * [03/2022] Our paper "[EMU: Increasing the Performance and Applicability of LoRa
 through Chirp Emulation, Snipping, and Multiplexing](https://chrisye-liu.github.io/files/yang22emu.pdf)" was accepted at IPSN'22!
-No1
+
+No2
