@@ -17,10 +17,10 @@ TBD.
 
 ------
 <p>
-<img src="/images/foo-bar-identity.jpg" alt="" style="float:left" width="30" height="100"> 
+<img src="/images/foo-bar-identity.jpg" alt="" style="float:left" width="300" height="250"> 
 </p>
 
 **Internet of Things**
 
-片的段落，图片浮动在这个文本的左边。
+
 The Internet of Things (IoT) is becoming a new fundamen- tal infrastructure worldwide. Over the past decade, dramatic numbers of IoT systems have been deployed for smart cities, Industry 4.0, and Agriculture 4.0 [1]. They not only help in productivity enhancement and cost reduction, but also benefit in improving quality of life and creating new opportunities.
