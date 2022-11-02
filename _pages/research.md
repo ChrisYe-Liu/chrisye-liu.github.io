@@ -12,10 +12,20 @@ author_profile: true
 <figcaption> 
 <h4><font  color=blue size=3><b>On-Demand Railway Bridge Structural Health Monitoring</b></font></h4>
 <p style="text-align:justify;">
-More than 73,000 railway bridges older than 110 years in Europe. The IoT provides an appealing solution for railway bridge surveillance, condition assessment, and management. However, existing energy-efficient approaches, such as duty cycling and energy harvesting, face challenges in this application due to the unpredictability of train passages and insufficient ambient energy around bridges. We proposed EocVibe, the first railway bridge monitoring IoT system that provides on-demand sensing with near-zero idle energy dissipation. This research work was supported by VINNOVA. The related paper has been published in <font  color=red ><b>IEEE IoTJ 2019</b></font>. <a href="https://ieeexplore.ieee.org/document/8445576" target="_blank">[PDF]</a>
+More than 73,000 railway bridges older than 110 years in Europe. The IoT is a promising technology for railway bridge health monitoring. However, existing energy-efficient approaches, such as duty cycling and energy harvesting, face challenges in this application due to the unpredictability of train passages and insufficient ambient energy around bridges. We proposed EocVibe, the first railway bridge monitoring IoT system that provides on-demand sensing with near-zero idle energy dissipation. This research work was supported by VINNOVA. The related papers have been published in <font  color=red ><b>IEEE ComMag 2016</b></font> <a href="https://ieeexplore.ieee.org/document/7786108" target="_blank">[PDF]</a> and <font  color=red ><b>IEEE IoTJ 2019</b></font>. <a href="https://ieeexplore.ieee.org/document/8445576" target="_blank">[PDF]</a>
 </p>
 </figcaption>
 <p>
 <hr style="height:1px;border:none;border-top:1px solid #555555;" /> 
-
+<p>
+  <img src="/images/research/water.png" alt=""
+  style="float:left" width="250" height="188">
+<figcaption> 
+<h4><font  color=blue size=3><b>Harvest Energy from Water: A Self-Sustained Water Quality Sensing System</b></font></h4>
+<p style="text-align:justify;">
+More than 73,000 railway bridges older than 110 years in Europe. The IoT provides an appealing solution for railway bridge surveillance, condition assessment, and management. However, existing energy-efficient approaches, such as duty cycling and energy harvesting, face challenges in this application due to the unpredictability of train passages and insufficient ambient energy around bridges. We proposed EocVibe, the first railway bridge monitoring IoT system that provides on-demand sensing with near-zero idle energy dissipation. This research work was supported by VINNOVA. The related papers have been published in <font  color=red ><b>IEEE ComMag 2016</b></font> <a href="https://ieeexplore.ieee.org/document/7786108" target="_blank">[PDF]</a> and <font  color=red ><b>ACM TECS 2017</b></font>. <a href="https://dl.acm.org/doi/10.1145/3047646" target="_blank">[PDF]</a>
+</p>
+</figcaption>
+<p>
+<hr style="height:1px;border:none;border-top:1px solid #555555;" /> 
 
