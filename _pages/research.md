@@ -40,6 +40,7 @@ The Internet of Things (IoT) is becoming a new fundamen- tal infrastructure worl
 <b>asdfasdf**</b>
 The Internet of Things (IoT) is becoming a new fundamen- tal infrastructure worldwide. Over the past decade, dramatic numbers of IoT systems have been deployed for smart cities, Industry 4.0, and Agriculture 4.0 [1]. They not only help in productivity enhancement and cost reduction, but also benefit in improving quality of life and creating new opportunities.
 
+   
 ------
 <p>
   <img src="/images/foo-bar-identity.jpg" alt="this is a placeholder image"
@@ -49,4 +50,7 @@ The Internet of Things (IoT) is becoming a new fundamen- tal infrastructure worl
 <b>asdfasdf11**</b>
 The Internet of Things (IoT) is becoming a new fundamen- tal infrastructure worldwide. Over the past decade, dramatic numbers of IoT systems have been deployed for smart cities, Industry 4.0, and Agriculture 4.0 [1]. They not only help in productivity enhancement and cost reduction, but also benefit in improving quality of life and creating new opportunities.
 
+   
 ------
+------
+fdss
