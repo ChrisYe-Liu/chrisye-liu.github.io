@@ -44,7 +44,7 @@ The Internet of Things (IoT) is becoming a new fundamen- tal infrastructure worl
   <img src="/images/foo-bar-identity.jpg" alt=""
   style="float:left" width="250" height="187">
 <figcaption> 
-<h4><font  color=blue size=3><b>这是标题 4</b></font></h4>
+<h4><font  color=blue size=3><b>On-demand Sensing</b></font></h4>
 <h4><font  color=blue size=4><b>这是标题 4</b></font></h4>
 
 
