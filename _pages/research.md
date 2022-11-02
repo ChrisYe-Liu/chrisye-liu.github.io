@@ -10,8 +10,9 @@ TBD.
 
 ------
 <figure>
-  <img src="/images/foo-bar-identity.jpg#pic_left" alt="this is a placeholder image">
-  <figcaption>This is a figure caption 4.</figcaption>
+   <img src= "/images/foo-bar-identity.jpg" 
+  alt="this is a placeholder image">
+  <figcaption>This is a figure caption 5.</figcaption>
 </figure>
 ------
 
