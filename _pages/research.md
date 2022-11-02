@@ -9,5 +9,8 @@ author_profile: true
 TBD.
 
 ------
-
+<figure>
+  <img src="/images/foo-bar-identity.jpg" alt="this is a placeholder image">
+  <figcaption>This is a figure caption.</figcaption>
+</figure>
 ------
