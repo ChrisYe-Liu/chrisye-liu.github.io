@@ -18,7 +18,7 @@ Over 73,000 railway bridges are older than 110 years in Europe. The IoT is promi
 <p>
 <hr style="height:1px;border:none;border-top:1px solid #555555;" /> 
 <p>
-  <img src="/images/research/water1.jpg" alt=""
+  <img src="/images/research/water2.jpg" alt=""
   style="float:left" width="250" height="200">
 <figcaption> 
 <h4><font  color=blue size=3><b>Harvest Energy from Water: A Green Water Quality Sensing System</b></font></h4>
