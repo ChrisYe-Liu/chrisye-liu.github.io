@@ -8,7 +8,7 @@ author_profile: true
 
 ------
 <figure>
-<img src="/images/foo-bar-identity.jpg" alt="alt text" style="float:left" width="200" height="150"> 
+<img src="/images/foo-bar-identity.jpg" alt="" style="float:left" width="100" height="75"> 
 </figure>
 
 **Internet of Things**
