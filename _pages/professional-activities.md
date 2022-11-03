@@ -13,7 +13,7 @@ Honors and Awards
 * 2021：Macau Young Scholar (澳门青年学者计划)
 * 2020：Outstanding Presentation Awards at 3rd Postdoctoral Academic Conference of NJAU (第三届南京农业大学钟山博士后青年学者论坛十佳报告)
 * 2019：Outstanding Presentation Awards at 2nd Postdoctoral Academic Conference of NJAU (第二届南京农业大学钟山博士后青年学者论坛十佳报告)
-* 2019：The 1st Place of Dependability Competition at EWSN 2019 (EWSN物联网可靠通信国际挑战赛冠军) [[Certificate](https://chrisye-liu.github.io/files/certificate/2019ewsn.pdf)]
+* 2019：The 1st Place of Dependability Competition at EWSN 2019 (EWSN物联网可靠通信国际挑战赛冠军) [[Certificate](https://chrisye-liu.github.io//images/research/ewsnphoto.jpg)] [[Photo](https://chrisye-liu.github.io/files/certificate/2019ewsn.pdf)]
 * 2016：Study Abroad Scholarship of China Scholarship Council (国家公派联合培养博士)
 * 2014：Study Abroad Scholarship of Southeast University (东南大学公派访问学者)
 * 2013：Graduate Student Innovation Project of Jiangsu Province (江苏省优秀硕士论文)
