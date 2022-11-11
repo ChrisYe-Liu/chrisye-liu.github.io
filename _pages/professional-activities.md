@@ -65,6 +65,8 @@ IEEE Transactions on Computational Social Systems
 
 IEEE Internet of Things Journal
 
+ IEEE/CAA Journal of Automatica Sinica
+
 China Communications
 
 Springer Mobile Networks and Applications
