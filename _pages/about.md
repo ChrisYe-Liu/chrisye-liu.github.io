@@ -27,6 +27,8 @@ Research Interest
 
 News
 ------
+* [03/2023] Invited to serve as TPC member for [IWCMC 2023 Wireless Networking Symposium](https://iwcmc.org/2023/) .
+* [03/2023] Invited to serve as TPC member for [IEEE MeditCom 2023](https://meditcom2023.ieee-meditcom.org/) .
 * [11/2022] Serve as Guest Editor for IEEE Network Special Issue [“Connected and Autonomous Vehicles”](https://www.comsoc.org/publications/magazines/ieee-network/cfp/connected-and-autonomous-vehicles).
 * [10/2022] Our paper "[Understanding the Impact of Environmental Conditions on Zero-Power Internet of Things: An Experimental Evaluation](https://ieeexplore.ieee.org/document/9928079)" was published at IEEE Wireless Communications!
 * [10/2022] Invited to serve as TPC member for [IEEE ICIN'23](https://www.icin-conference.org/).
