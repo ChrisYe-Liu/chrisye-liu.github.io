@@ -17,7 +17,7 @@ Honors and Awards
 * 2019：The 1st Place of Dependability Competition at EWSN 2019 (EWSN物联网可靠通信国际挑战赛冠军) [[Certificate](https://chrisye-liu.github.io/files/certificate/2019ewsn.pdf)] [[Photo](https://chrisye-liu.github.io//images/research/ewsnphoto.jpg)] 
 * 2016：Study Abroad Scholarship of China Scholarship Council (国家公派联合培养博士)
 * 2014：Study Abroad Scholarship of Southeast University (东南大学公派访问学者)
-* 2013：Graduate Student Innovation Project of Jiangsu Province (江苏省优秀硕士论文)
+* 2013：Outstanding Master Thesis Award of Jiangsu Province (江苏省优秀硕士论文)
 * 2013：Outstanding Master Thesis Award of Southeast University (东南大学优秀硕士论文)
  
 
