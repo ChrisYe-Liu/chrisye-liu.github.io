@@ -27,6 +27,7 @@ Research Interest
 
 News
 ------
+* [06/2023] Our paper "[QuAsyncFL: Asynchronous Federated Learning with Quantization for Cloud-Edge-Terminal Collaboration Enabled AIoT](https://ieeexplore.ieee.org/document/10168200)" was published at IEEE Internet of Things Journal!
 * [05/2023] Our paper "[Exploiting Constructive Interference for Backscatter Communication Systems](https://chrisye-liu.github.io/files/gu23CI.pdf)" was published at IEEE Transactions on Communications!
 * [03/2023] Invited to serve as TPC member for [IWCMC 2023 Wireless Networking Symposium](https://iwcmc.org/2023/) .
 * [03/2023] Invited to serve as TPC member for [IEEE MeditCom 2023](https://meditcom2023.ieee-meditcom.org/) .
