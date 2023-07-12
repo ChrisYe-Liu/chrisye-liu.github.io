@@ -27,6 +27,7 @@ Research Interest
 
 News
 ------
+* [07/2023] Our paper "[Understanding Concurrent Transmissions: The Impact of Carrier Frequency Offset and RF Interference on Physical Layer Performance](https://arxiv.org/abs/2304.00371)" was accepted by ACM Transactions on Sensor Networks!
 * [07/2023] Our paper "[A Scheme for Pest-Dense Area Localization With Solar Insecticidal Lamps Internet of Things Under Asymmetric Links](https://ieeexplore.ieee.org/document/10175161)" was published at IEEE Transactions on AgriFood Electronics!
 * [06/2023] Our paper "[QuAsyncFL: Asynchronous Federated Learning with Quantization for Cloud-Edge-Terminal Collaboration Enabled AIoT](https://ieeexplore.ieee.org/document/10168200)" was published at IEEE Internet of Things Journal!
 * [05/2023] Our paper "[Exploiting Constructive Interference for Backscatter Communication Systems](https://chrisye-liu.github.io/files/gu23CI.pdf)" was published at IEEE Transactions on Communications!

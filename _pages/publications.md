@@ -7,6 +7,10 @@ author_profile: true
 
 Journals
 ------
+$\color{red}{[TOSN]}$
+Michael Baddeley, Carlo Alberto Boano, Antonio Escobar-Molero, **Ye Liu**, Xiaoyuan Ma, Victor Marot, Usman Raza, Kay Römer, Markus Schuss,  Aleksandar Stanoev,"**Understanding Concurrent Transmissions: The Impact of Carrier Frequency Offset and RF Interference on Physical Layer Performance**", *ACM Transactions on Sensor Networks*, 2023. 
+[PDF](https://chrisye-liu.github.io/files/michael23ct.pdf) BibTex [Link](https://arxiv.org/abs/2304.00371)
+
 $\color{red}{[IoTJ]}$
 **Ye Liu**, Peishan Huang, Fan Yang, Kai Huang and Lei Shu,"**QuAsyncFL: Asynchronous Federated Learning with Quantization for Cloud-Edge-Terminal Collaboration Enabled AIoT**", *IEEE Internet of Things Journal*, 2023. 
 [PDF](https://chrisye-liu.github.io/files/ye23QuAsyncFL.pdf) BibTex [Link](https://ieeexplore.ieee.org/document/10168200)
