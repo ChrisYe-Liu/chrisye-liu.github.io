@@ -54,6 +54,8 @@ IEEE International Conference on Internet of Things (iThings) 2022
 
 Reviewer
 ------
+IEEE Communications Surveys & Tutorials
+
 IEEE Communications Magazine
 
 IEEE Transactions on Industrial Informatics
@@ -66,7 +68,7 @@ IEEE Transactions on Computational Social Systems
 
 IEEE Internet of Things Journal
 
- IEEE/CAA Journal of Automatica Sinica
+IEEE/CAA Journal of Automatica Sinica
 
 China Communications
 
