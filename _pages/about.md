@@ -27,6 +27,7 @@ Research Interest
 
 News
 ------
+* [07/2023] Invited to serve as TPC member for [IEEE CSCN'23](https://cscn2023.ieee-cscn.org/).
 * [07/2023] Invited to serve as TPC member for [IEEE ICC'24 - NGNI Symposium](https://icc2024.ieee-icc.org/).
 * [07/2023] Our paper "[A Novel Accurate Insecticidal Counting Method Based on Solar Insecticidal Lamp using Machine Learning](https://ieeexplore.ieee.org/document/10190097)" was published at  IEEE Transactions on Consumer Electronics！ 
 * [07/2023] Our paper "[Understanding Concurrent Transmissions: The Impact of Carrier Frequency Offset and RF Interference on Physical Layer Performance](https://arxiv.org/abs/2304.00371)" was accepted by ACM Transactions on Sensor Networks!
