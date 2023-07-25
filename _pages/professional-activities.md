@@ -44,7 +44,7 @@ The 3rd IEEE International Conference on Smart City Innovations (SCI), Web Chair
 
 Technical Program Committee
 ------
-IEEE International Conference on Communications(ICC), Symposium on Next-Generation Networking & Internet 2021, 2022, 2023
+IEEE International Conference on Communications(ICC), Symposium on Next-Generation Networking & Internet 2021, 2022, 2023，2024
 
 The Conference on Innovation in Clouds, Internet and Networks (ICIN) 2020, 2021, 2022, 2023
 
