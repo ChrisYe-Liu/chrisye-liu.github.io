@@ -27,6 +27,7 @@ Research Interest
 
 News
 ------
+* [10/2023] Invited to serve as TPC member for [ICIN'24](https://www.icin-conference.org/).
 * [09/2023] Serve as Track Chair for [IES ONCON'23 TT 08](https://iesoncon2023.com/technical-tracks/).
 * [07/2023] Invited to serve as TPC member for [ColTrust'23](http://ubisecurity.org/ColTrust/2023/).
 * [07/2023] Invited to serve as TPC member for [IEEE CSCN'23](https://cscn2023.ieee-cscn.org/).
