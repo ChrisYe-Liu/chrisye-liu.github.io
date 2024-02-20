@@ -29,7 +29,7 @@ News
 ------
 * [02/2024] Invited to serve as TPC member for [IEEE MeditCom 2024](https://meditcom2024.ieee-meditcom.org/).
 * [02/2024] Invited to serve as TPC member for [IWCMC 2024](https://iwcmc.net/2024/index.php).
-* [12/2023] Best paper award at [IEEE HealthCom'23](https://chrisye-liu.github.io/certificate/2023bestpaper.pdf)！ 
+* [12/2023] Best paper award at [IEEE HealthCom'23](https://chrisye-liu.github.io/files/certificate/2023healthcom.pdf)！ 
 * [10/2023] Invited to serve as TPC member for [ICIN'24](https://www.icin-conference.org/).
 * [09/2023] Serve as Track Chair for [IES ONCON'23 TT 08](https://iesoncon2023.com/technical-tracks/).
 * [07/2023] Invited to serve as TPC member for [ColTrust'23](http://ubisecurity.org/ColTrust/2023/).
