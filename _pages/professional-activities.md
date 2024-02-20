@@ -27,6 +27,8 @@ Editorship
 ------
 IEEE MMTC Review (Editor, December 2018 - Now)
 
+IEEE Transactions on Consumer Electronics, "[Special Section: Physical Safety and Security for Outdoor Electronic Devices](https://ctsoc.ieee.org/publications/ieee-transactions-on-consumer-electronics.html)"(Guest Editor, 2023)
+
 IEEE Network, "[Connected and Autonomous Vehicles](https://www.comsoc.org/publications/magazines/ieee-network/cfp/connected-and-autonomous-vehicles)" (Guest Editor, 2022)
 
 Journal of Sensor and Actuator Networks, "[Backscatter Communications for Battery-Free Internet of Things](https://www.mdpi.com/journal/jsan/special_issues/DL254URC47)" (Guest Editor, 2021)
@@ -52,6 +54,10 @@ The Conference on Innovation in Clouds, Internet and Networks (ICIN) 2020, 2021,
 IEEE International Conference on Internet of Things (iThings) 2022
 
  The Asia Pacific Web (APWeb) and Web-Age Information Management (WAIM) Joint International Conference 2022
+
+The International Wireless Communications & Mobile Computing Conference (IWCMC) 2023, 2024
+
+IEEE International Mediterranean Conference on Communications and Networking (MeditCom) 2023, 2024
 
 Reviewer
 ------
