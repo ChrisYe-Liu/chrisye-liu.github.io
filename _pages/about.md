@@ -27,7 +27,7 @@ Research Interest
 
 News
 ------
-* [12/2023] Best paper award at [IEEE HealthCom'23]!((https://chrisye-liu.github.io/certificate/2023bestpaperHealthCom).  
+* [12/2023] Best paper award at [IEEE HealthCom'23]!(https://chrisye-liu.github.io/certificate/2023bestpaperHealthCom).  
 * [10/2023] Invited to serve as TPC member for [ICIN'24](https://www.icin-conference.org/).
 * [09/2023] Serve as Track Chair for [IES ONCON'23 TT 08](https://iesoncon2023.com/technical-tracks/).
 * [07/2023] Invited to serve as TPC member for [ColTrust'23](http://ubisecurity.org/ColTrust/2023/).
