@@ -1,0 +1,9 @@
+@INPROCEEDINGS{7248872,
+  author={Liu, Ye and Liu, Hao and Yang, Qing and Wu, Shaoen},
+  booktitle={2015 IEEE International Conference on Communications (ICC)}, 
+  title={RM-MAC: A routing-enhanced multi-channel MAC protocol in duty-cycle sensor networks}, 
+  year={2015},
+  volume={},
+  number={},
+  pages={3534-3539},
+  doi={10.1109/ICC.2015.7248872}}
