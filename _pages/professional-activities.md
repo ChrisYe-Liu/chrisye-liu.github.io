@@ -39,6 +39,8 @@ Electronics,"[Electronics for Agriculture](https://www.mdpi.com/journal/electron
 
 Executive Committee Membership
 ------
+The 2nd IEEE Industrial Electronics Society Annual Online Conference (ONCON) 2023, Track Chair
+
 The International Conference on Internet of Things and Intelligent Applications (ITIA), TPC Co-Chairs, 2022
 
 IEEE International Conference on Omni-layer Intelligent Systems (COINS), Publicity Chair, 2021
@@ -51,19 +53,24 @@ IEEE International Conference on Communications(ICC), Symposium on Next-Generati
 
 The Conference on Innovation in Clouds, Internet and Networks (ICIN) 2020, 2021, 2022, 2023
 
-IEEE International Conference on Internet of Things (iThings) 2022
+IEEE International Conference on Internet of Things (iThings) 2022，2024
 
- The Asia Pacific Web (APWeb) and Web-Age Information Management (WAIM) Joint International Conference 2022
+The Asia Pacific Web (APWeb) and Web-Age Information Management (WAIM) Joint International Conference 2022
 
 The International Wireless Communications & Mobile Computing Conference (IWCMC) 2023, 2024
 
 IEEE International Mediterranean Conference on Communications and Networking (MeditCom) 2023, 2024
+
+The Workshop on Crystal-Free/-Less Radio and System-based Research for IoT (CrystalFreeIoT) 2024
+
 
 Reviewer
 ------
 IEEE Communications Surveys & Tutorials
 
 IEEE Communications Magazine
+
+IEEE Network Magazine
 
 IEEE Transactions on Industrial Informatics
 
