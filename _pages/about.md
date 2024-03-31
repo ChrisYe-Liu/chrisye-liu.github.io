@@ -11,7 +11,7 @@ redirect_from:
 
 About Me
 ------
-I am currently a Macao Young Scholar in the School of Computer Science and Engineering, Macau University of Science and Technology, supervised by [Prof. Ying-Chang Liang](https://scholar.google.com.sg/citations?user=HybIiJ8AAAAJ&hl=en) and [Dr. Dong Li](https://www.must.edu.mo/en/fi/staff/lidong). Before that, I worked at Nanjing Agricultural University from 2018 to 2021. I received the Ph.D. degree from the School of Electronic Science & Engineering, Southeast University, in 2018. During my Ph.D. period, I was a Visiting Scholar with Montana State University from October 2014 to October 2015, supervised by [Dr. Qing Yang](http://www.cse.unt.edu/~qingyang/), and a Joint Ph.D. Student from February 2017 to January 2018 with the Networked Embedded Systems Group, RISE Swedish Institute of Computer Science, supervised by [Prof. Thiemo Voigt](https://katalog.uu.se/profile/?id=N2-279). 
+I am currently working at Nanjing Agricultural University. Before that, I was a Macao Young Scholar in the School of Computer Science and Engineering, Macau University of Science and Technology between 2022 and 2024. I received the Ph.D. degree from the School of Electronic Science & Engineering, Southeast University, in 2018. During my Ph.D. period, I was a Visiting Scholar with Montana State University from October 2014 to October 2015, supervised by [Dr. Qing Yang](http://www.cse.unt.edu/~qingyang/), and a Joint Ph.D. Student from February 2017 to January 2018 with the Networked Embedded Systems Group, RISE Swedish Institute of Computer Science, supervised by [Prof. Thiemo Voigt](https://katalog.uu.se/profile/?id=N2-279). 
 
 
 ------
