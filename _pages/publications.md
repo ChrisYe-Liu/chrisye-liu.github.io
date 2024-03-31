@@ -14,7 +14,7 @@ $\color{red}{[WCM]}$
 
 $\color{red}{[TOSN]}$
 Michael Baddeley, Carlo Alberto Boano, Antonio Escobar-Molero, **Ye Liu**, Xiaoyuan Ma, Victor Marot, Usman Raza, Kay Römer, Markus Schuss,  Aleksandar Stanoev,“**Understanding Concurrent Transmissions: The Impact of Carrier Frequency Offset and RF Interference on Physical Layer Performance**”, *ACM Transactions on Sensor Networks*, 2023. 
-[PDF](https://chrisye-liu.github.io/files/michael23ct.pdf) BibTex(https://chrisye-liu.github.io/files/bibtex/bib_ctphy.txt) [Link](https://dl.acm.org/doi/10.1145/3604430)
+[PDF](https://chrisye-liu.github.io/files/michael23ct.pdf) [BibTex](https://chrisye-liu.github.io/files/bibtex/bib_ctphy.txt) [Link](https://dl.acm.org/doi/10.1145/3604430)
 
 $\color{red}{[IoTJ]}$
 **Ye Liu**, Peishan Huang, Fan Yang, Kai Huang and Lei Shu,“**QuAsyncFL: Asynchronous Federated Learning with Quantization for Cloud-Edge-Terminal Collaboration Enabled AIoT**”, *IEEE Internet of Things Journal*, 2023. 
