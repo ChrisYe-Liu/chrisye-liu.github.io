@@ -1,0 +1,10 @@
+@ARTICLE{10168200,
+  author={Liu, Ye and Huang, Peishan and Yang, Fan and Huang, Kai and Shu, Lei},
+  journal={IEEE Internet of Things Journal}, 
+  title={QuAsyncFL: Asynchronous Federated Learning With Quantization for Cloud–Edge–Terminal Collaboration Enabled AIoT}, 
+  year={2024},
+  volume={11},
+  number={1},
+  pages={59-69},
+  keywords={Federated learning;Internet of Things;Cloud computing;Artificial intelligence;Training;Collaboration;Quantization (signal);Artificial Intelligence of Things (AIoT);asynchronous federated learning;cloud–edge–terminal collaboration;communication efficiency;quantization},
+  doi={10.1109/JIOT.2023.3290818}}

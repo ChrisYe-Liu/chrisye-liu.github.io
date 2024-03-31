@@ -7,21 +7,26 @@ author_profile: true
 
 Journals
 ------
+$\color{red}{[WCM]}$
+**Ye Liu**, Dong Li, Haipeng Dai, Xiaoyuan Ma, and Carlo Alberto Boano,“**Understanding Concurrent Radiative Wireless Power Transfer in the IoT: Out of Myth, into Reality**”, *IEEE Wireless Communications*, 2024. 
+[PDF](https://chrisye-liu.github.io/files/ye24wpt.pdf) [BibTex](https://chrisye-liu.github.io/files/bibtex/bib_crwpt.txt)  [Link](https://ieeexplore.ieee.org/document/10480324)
+
+
 $\color{red}{[TOSN]}$
 Michael Baddeley, Carlo Alberto Boano, Antonio Escobar-Molero, **Ye Liu**, Xiaoyuan Ma, Victor Marot, Usman Raza, Kay Römer, Markus Schuss,  Aleksandar Stanoev,“**Understanding Concurrent Transmissions: The Impact of Carrier Frequency Offset and RF Interference on Physical Layer Performance**”, *ACM Transactions on Sensor Networks*, 2023. 
-[PDF](https://chrisye-liu.github.io/files/michael23ct.pdf) BibTex [Link](https://arxiv.org/abs/2304.00371)
+[PDF](https://chrisye-liu.github.io/files/michael23ct.pdf) BibTex(https://chrisye-liu.github.io/files/bibtex/bib_ctphy.txt) [Link](https://dl.acm.org/doi/10.1145/3604430)
 
 $\color{red}{[IoTJ]}$
 **Ye Liu**, Peishan Huang, Fan Yang, Kai Huang and Lei Shu,“**QuAsyncFL: Asynchronous Federated Learning with Quantization for Cloud-Edge-Terminal Collaboration Enabled AIoT**”, *IEEE Internet of Things Journal*, 2023. 
-[PDF](https://chrisye-liu.github.io/files/ye23QuAsyncFL.pdf) BibTex [Link](https://ieeexplore.ieee.org/document/10168200)
+[PDF](https://chrisye-liu.github.io/files/ye23QuAsyncFL.pdf) [BibTex](https://chrisye-liu.github.io/files/bibtex/bib_quasyncfl.txt) [Link](https://ieeexplore.ieee.org/document/10168200)
 
 $\color{red}{[TCOM]}$
 Bowen Gu, Dong Li, **Ye Liu** and Yongjun Xu,“**Exploiting Constructive Interference for Backscatter Communication Systems**”, *IEEE Transactions on Communications*, 2023. 
-[PDF](https://chrisye-liu.github.io/files/gu23CI.pdf) BibTex [Link](https://ieeexplore.ieee.org/document/10129192)
+[PDF](https://chrisye-liu.github.io/files/gu23CI.pdf) [BibTex](https://chrisye-liu.github.io/files/bibtex/bib_backiot.txt) [Link](https://ieeexplore.ieee.org/document/10129192)
 
 $\color{red}{[WCM]}$
 **Ye Liu**, Dong Li, Haipeng Dai, Chunguo Li, and Rui Zhang,“**Understanding the Impact of Environmental Conditions on Zero-Power Internet of Things: An Experimental Evaluation**”, *IEEE Wireless Communications*, 2022. 
-[PDF](https://chrisye-liu.github.io/files/ye22understandingWPT.pdf) BibTex [Link](https://ieeexplore.ieee.org/document/9928079)
+[PDF](https://chrisye-liu.github.io/files/ye22understandingWPT.pdf) [BibTex](https://chrisye-liu.github.io/files/bibtex/bib_zpiot.txt)  [Link](https://ieeexplore.ieee.org/document/9928079)
 
 $\color{red}{[WCM]}$
 **Ye Liu**, Dong Li, Bangsong Du, Lei Shu, and Guangjie Han,“**Rethinking Sustainable Sensing in Agricultural Internet of Things: From Power Supply Perspective**”, *IEEE Wireless Communications*, 2022. 
