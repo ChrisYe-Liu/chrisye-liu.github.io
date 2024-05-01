@@ -7,6 +7,7 @@ author_profile: true
  
 Honors and Awards
 ------
+* 2024：Marie Sklodowska-Curie Actions (MSCA) Seal of Excellence ![[Certificate](https://chrisye-liu.github.io/files/certificate/2023MSCA.pdf)] 
 * 2023: Best paper award at IEEE Healthcom'23![[Certificate](https://chrisye-liu.github.io/files/certificate/2023healthcom.pdf)]
 * 2022：Outstanding Innovation & Entrepreneurship Postdoc of Jiangsu Province （江苏创新创业优秀博士后） [[Certificate](https://chrisye-liu.github.io/files/certificate/2022postdoc.pdf)]
 * 2022：Honor for lights of future-future network technology innovation contest (未来网络科技创新大赛二等奖，指导老师) [[Certificate](https://chrisye-liu.github.io/files/certificate/2022lightaward.jpg)]
@@ -26,6 +27,8 @@ Honors and Awards
 Editorship
 ------
 IEEE MMTC Review (Editor, December 2018 - Now)
+
+International Journal of Security and Networks (Editorial Board Members, 2024 - Now)
 
 IEEE Transactions on Consumer Electronics, "[Special Section: Physical Safety and Security for Outdoor Electronic Devices](https://ctsoc.ieee.org/publications/ieee-transactions-on-consumer-electronics.html)"(Guest Editor, 2023)
 
