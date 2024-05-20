@@ -28,6 +28,8 @@ Editorship
 ------
 IEEE MMTC Review (Editor, December 2018 - Now)
 
+International Journal of Sensor Networks (Editorial Board Members, 2024 - Now)
+
 International Journal of Security and Networks (Editorial Board Members, 2024 - Now)
 
 IEEE Transactions on Consumer Electronics, "[Special Section: Physical Safety and Security for Outdoor Electronic Devices](https://ctsoc.ieee.org/publications/ieee-transactions-on-consumer-electronics.html)"(Guest Editor, 2023)

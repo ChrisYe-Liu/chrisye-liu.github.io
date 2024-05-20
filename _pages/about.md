@@ -27,6 +27,7 @@ Research Interest
 
 News
 ------
+* [05/2024] Invited to serve as Editor for [International Journal of Sensor Networks](https://www.inderscience.com/jhome.php?jcode=ijsnet)
 * [04/2024] Invited to serve as Editor for [International Journal of Security and Networks](https://www.inderscience.com/jhome.php?jcode=ijsn)
 * [04/2024] Awarded Marie Sklodowska-Curie Actions (MSCA) Seal of Excellence.
 * [02/2024] Invited to serve as TPC member for [iThings-2024](https://ieee-cybermatics.org/2024/ithings/).
