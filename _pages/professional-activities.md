@@ -28,6 +28,8 @@ Editorship
 ------
 IEEE MMTC Review (Editor, December 2018 - Now)
 
+IEEE Access (Associate Editor, 2024 - Now)
+
 International Journal of Sensor Networks (Editorial Board Members, 2024 - Now)
 
 International Journal of Security and Networks (Editorial Board Members, 2024 - Now)

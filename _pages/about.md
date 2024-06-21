@@ -27,6 +27,7 @@ Research Interest
 
 News
 ------
+* [06/2024] Invited to serve as Associate Editor for IEEE Access.
 * [06/2024] Invited to serve as TPC member for [ICIN'25](https://www.icin-conference.org/).
 * [05/2024] Invited to serve as Editor for [International Journal of Sensor Networks](https://www.inderscience.com/jhome.php?jcode=ijsnet)
 * [04/2024] Invited to serve as Editor for [International Journal of Security and Networks](https://www.inderscience.com/jhome.php?jcode=ijsn)
