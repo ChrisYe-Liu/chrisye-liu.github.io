@@ -27,6 +27,7 @@ Research Interest
 
 News
 ------
+* [06/2024] Our paper "[DeepSpoof: Deep Reinforcement Learning-Based Spoofing Attack in Cross-Technology Multimedia Communication](https://ieeexplore.ieee.org/document/10566040)" was accepted by IEEE Transactions on Multimedia!
 * [06/2024] Invited to serve as Associate Editor for IEEE Access.
 * [06/2024] Invited to serve as TPC member for [ICIN'25](https://www.icin-conference.org/).
 * [05/2024] Invited to serve as Editor for [International Journal of Sensor Networks](https://www.inderscience.com/jhome.php?jcode=ijsnet)
