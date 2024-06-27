@@ -8,7 +8,7 @@ author_profile: true
 Journals
 ------
 $\color{red}{[TMM]}$
-**Ye Liu**, Dong Li, Haipeng Dai, Xiaoyuan Ma, and Carlo Alberto Boano,“**DeepSpoof: Deep Reinforcement Learning-Based Spoofing Attack in Cross-Technology Multimedia Communication**”, *IEEE Wireless Communications*, 2024. 
+Demin Gao, Liyuan Ou, **Ye Liu**, Qing Yang, and Honggang Wang,“**DeepSpoof: Deep Reinforcement Learning-Based Spoofing Attack in Cross-Technology Multimedia Communication**”, *IEEE Transactions on Multimedia*, 2024. 
 [PDF](https://chrisye-liu.github.io/files/demin24DeepSpoof.pdf) [BibTex]()  [Link](https://ieeexplore.ieee.org/document/10566040)
 
 
