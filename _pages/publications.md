@@ -13,7 +13,7 @@ Demin Gao, Liyuan Ou, **Ye Liu**, Qing Yang, and Honggang Wang,“**DeepSpoof: D
 
 
 $\color{red}{[WCM]}$
-**Ye Liu**, Dong Li, Haipeng Dai, Xiaoyuan Ma, and Carlo Alberto Boano,“**Understanding Concurrent Radiative Wireless Power Transfer in the IoT: Out of Myth, into Reality**”, *IEEE Wireless Communications*, 2024. 
+**Ye Liu**, Haipeng Dai, Xiaoyuan Ma, and Carlo Alberto Boano,“**Understanding Concurrent Radiative Wireless Power Transfer in the IoT: Out of Myth, into Reality**”, *IEEE Wireless Communications*, 2024. 
 [PDF](https://chrisye-liu.github.io/files/ye24wpt.pdf) [BibTex](https://chrisye-liu.github.io/files/bibtex/bib_crwpt.txt)  [Link](https://ieeexplore.ieee.org/document/10480324)
 
 
