@@ -73,6 +73,9 @@ $\color{red}{[ComMag]}$
 
 Conferences
 ------
+$\color{red}{[ICDCS]}$
+Lixing Song, William Valentine, Qing Yang, Honggang Wang, Hua Fang, and **Ye Liu**,“**BB-Align: A Lightweight Pose Recovery Framework for Vehicle-to-Vehicle Cooperative Perception**”, *IEEE 44th International Conference on Distributed Computing Systems (ICDCS)*, 2024.
+[PDF](https://chrisye-liu.github.io/files/song24bbalign.pdf)
 
 $\color{red}{[IPSN]}$
 Fengxu Yang, Pei Tian, Xiaoyuan Ma, Carlo Alberto Boano, **Ye Liu**, and Jianming Wei,“**EMU: Increasing the Performance and Applicability of LoRa through Chirp Emulation, Snipping, and Multiplexing**”, *The 20th ACM/IEEE International Conference on Information Processing in Sensor Networks (IPSN)*, 2022.

@@ -28,6 +28,7 @@ Research Interest
 News
 ------
 * [09/2024] Our paper "[A Low-Cost and Infrastructure-Less LoRa Wireless Network Testbed for Cognitive Internet of Things](https://ieeexplore.ieee.org/document/10680422)" was accepted by IEEE Transactions on Cognitive Communications and Networking!
+* [08/2024] Our paper "[BB-Align: A Lightweight Pose Recovery Framework for Vehicle-to-Vehicle Cooperative Perception](https://ieeexplore.ieee.org/document/10631046)" was accepted by IEEE ICDCS!
 * [06/2024] Our paper "[DeepSpoof: Deep Reinforcement Learning-Based Spoofing Attack in Cross-Technology Multimedia Communication](https://ieeexplore.ieee.org/document/10566040)" was accepted by IEEE Transactions on Multimedia!
 * [06/2024] Invited to serve as Associate Editor for IEEE Access.
 * [06/2024] Invited to serve as TPC member for [ICIN'25](https://www.icin-conference.org/).
