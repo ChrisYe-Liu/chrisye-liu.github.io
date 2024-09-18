@@ -7,6 +7,10 @@ author_profile: true
 
 Journals
 ------
+$\color{red}{[TCCN]}$
+**Ye Liu**, Pei Tian, Carlo Alberto Boano, Xiaoyuan Ma, Qing Yang, and Honggang Wang,“**A Low-Cost and Infrastructure-Less LoRa Wireless Network Testbed for Cognitive Internet of Things**”, *IEEE Transactions on Cognitive Communications and Networking*, 2024. 
+[PDF](https://chrisye-liu.github.io/files/ye2024chirpbox.pdf) [BibTex]()  [Link](https://ieeexplore.ieee.org/document/10680422)
+
 $\color{red}{[TMM]}$
 Demin Gao, Liyuan Ou, **Ye Liu**, Qing Yang, and Honggang Wang,“**DeepSpoof: Deep Reinforcement Learning-Based Spoofing Attack in Cross-Technology Multimedia Communication**”, *IEEE Transactions on Multimedia*, 2024. 
 [PDF](https://chrisye-liu.github.io/files/demin24DeepSpoof.pdf) [BibTex]()  [Link](https://ieeexplore.ieee.org/document/10566040)
