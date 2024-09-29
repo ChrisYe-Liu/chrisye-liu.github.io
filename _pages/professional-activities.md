@@ -101,6 +101,8 @@ Elsevier Journal of Systems Architecture
 
 Elsevier Vehicular Communications
 
+Computer Communications
+
 Journal of Circuits, Systems, and Computers
 
 
