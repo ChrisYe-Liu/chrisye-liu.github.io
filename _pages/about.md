@@ -27,6 +27,7 @@ Research Interest
 
 News
 ------
+* [10/2024] Invited to serve as TPC member for [IEEE ICC'25 - NGNI Symposium](https://icc2025.ieee-icc.org/).
 * [10/2024] Invited to serve as TPC member for [IEEE CSCN'24](https://cscn2024.ieee-cscn.org/).
 * [09/2024] Our paper "[A Low-Cost and Infrastructure-Less LoRa Wireless Network Testbed for Cognitive Internet of Things](https://ieeexplore.ieee.org/document/10680422)" was accepted by IEEE Transactions on Cognitive Communications and Networking!
 * [08/2024] Our paper "[BB-Align: A Lightweight Pose Recovery Framework for Vehicle-to-Vehicle Cooperative Perception](https://ieeexplore.ieee.org/document/10631046)" was accepted by IEEE ICDCS!
