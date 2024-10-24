@@ -1,0 +1,9 @@
+@ARTICLE{9108997,
+  author={Liu, Ye and Ma, Xiaoyuan and Shu, Lei and Yang, Qing and Zhang, Yu and Huo, Zhiqiang and Zhou, Zhangbing},
+  journal={IEEE Network}, 
+  title={Internet of Things for Noise Mapping in Smart Cities: State of the Art and Future Directions}, 
+  year={2020},
+  volume={34},
+  number={4},
+  pages={112-118},
+  doi={10.1109/MNET.011.1900634}}

@@ -1,0 +1,10 @@
+@ARTICLE{9928079,
+  author={Liu, Ye and Li, Dong and Dai, Haipeng and Li, Chunguo and Zhang, Rui},
+  journal={IEEE Wireless Communications}, 
+  title={Understanding the Impact of Environmental Conditions on Zero-Power Internet of Things: An Experimental Evaluation}, 
+  year={2023},
+  volume={30},
+  number={6},
+  pages={152-159},
+  keywords={Wireless communication;Internet of Things;Wireless sensor networks;Dipole antennas;Patch antennas;Meters;Sensors},
+  doi={10.1109/MWC.007.2200177}}

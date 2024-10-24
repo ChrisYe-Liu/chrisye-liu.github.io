@@ -1,0 +1,10 @@
+@article{liu2018cross,
+  title={Cross-layer cooperative multichannel medium access for internet of things},
+  author={Liu, Ye and Fan, Chenglin and Liu, Hao and Yang, Qing and Wu, Shaoen},
+  journal={Peer-to-Peer Networking and Applications},
+  volume={11},
+  number={3},
+  pages={504--517},
+  year={2018},
+  publisher={Springer}
+}
