@@ -27,6 +27,8 @@ Research Interest
 
 News
 ------
+* [02/2025] Invited to serve as TPC member for [IWCMC 2025 Wireless Networks Symposium](https://iwcmc.net/2025/index.php).
+* [02/2025] Invited to serve as TPC member for [IEEE MeditCom 2025](https://meditcom2025.ieee-meditcom.org/).
 * [12/2024] Our paper "[Intelligent Noise Mapping for Smart Cities: Solutions, Trends, and Research Opportunities](https://ieeexplore.ieee.org/document/10803925)" was published at IEEE Communications Magazine (Special Issue on Internet of Sound)!
 * [10/2024] Invited to serve as TPC member for [IEEE ICC'25 - NGNI Symposium](https://icc2025.ieee-icc.org/).
 * [10/2024] Invited to serve as TPC member for [IEEE CSCN'24](https://cscn2024.ieee-cscn.org/).
