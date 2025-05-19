@@ -7,8 +7,8 @@ author_profile: true
  
 Honors and Awards
 ------
-* 2025：Marie Sklodowska-Curie Actions (MSCA) Postdoctoral Fellowship!
-* 2024：Marie Sklodowska-Curie Actions (MSCA) Seal of Excellence ![[Certificate](https://chrisye-liu.github.io/files/certificate/2024MSCA.pdf)] 
+* 2025：Marie Sklodowska-Curie Actions (MSCA) Postdoctoral Fellowship! （欧盟玛丽居里学者）
+* 2024：Marie Sklodowska-Curie Actions (MSCA) Seal of Excellence !（欧盟玛丽居里卓越奖）[[Certificate](https://chrisye-liu.github.io/files/certificate/2024MSCA.pdf)] 
 * 2023: Best paper award at IEEE Healthcom'23![[Certificate](https://chrisye-liu.github.io/files/certificate/2023healthcom.pdf)]
 * 2022：Outstanding Innovation & Entrepreneurship Postdoc of Jiangsu Province （江苏创新创业优秀博士后） [[Certificate](https://chrisye-liu.github.io/files/certificate/2022postdoc.pdf)]
 * 2022：Honor for lights of future-future network technology innovation contest (未来网络科技创新大赛二等奖，指导老师) [[Certificate](https://chrisye-liu.github.io/files/certificate/2022lightaward.jpg)]
