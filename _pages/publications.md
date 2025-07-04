@@ -9,7 +9,7 @@ Journals
 ------
 $\color{red}{[TWC]}$
 Demin Gao, **Ye Liu**, Qiaolin Ye and Honggang Wang“**Cracking the Code: LoRa Physical-Layer Insights and Signal Recovery under Cross-Technology Interference**”, *IEEE Transactions on Wireless Communications*, 2025. 
-[PDF](https://chrisye-liu.github.io/files/demin25LoRa.pdf) [BibTex]()  [Link](https://ieeexplore.ieee.org/document/11062478/authors#authors)
+[PDF](https://chrisye-liu.github.io/files/demin25LoRa.pdf) [BibTex]()  [Link](https://ieeexplore.ieee.org/document/11062478)
 
 $\color{red}{[ComMag]}$
 **Ye Liu**, Xiaoyuan Ma, and Carlo Alberto Boano,“**Intelligent Noise Mapping for Smart Cities: Solutions, Trends, and Research Opportunities**”, *IEEE Communications Magazine*, 2024. 
