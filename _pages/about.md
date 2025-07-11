@@ -28,7 +28,7 @@ Research Interest
 News
 ------
 * [07/2025] Our paper "[Cracking the Code: LoRa Physical-Layer Insights and Signal Recovery under Cross-Technology Interference](https://ieeexplore.ieee.org/document/11062478)" was published at IEEE Transactions on Wireless Communications!
-* [02/2025] My proposal, MILESTONE-6G, has been awarded the prestigious [Marie Skłodowska-Curie Postdoctoral Fellowship (MSCA-PF) 2024](https://marie-sklodowska-curie-actions.ec.europa.eu/news/msca-postdoctoral-fellowships-2024-receives-10360-proposals).
+* [02/2025] My proposal has been awarded the prestigious [Marie Skłodowska-Curie Postdoctoral Fellowship (MSCA-PF) 2024](https://marie-sklodowska-curie-actions.ec.europa.eu/news/msca-postdoctoral-fellowships-2024-receives-10360-proposals).
 * [02/2025] Invited to serve as TPC member for [IWCMC 2025 Wireless Networks Symposium](https://iwcmc.net/2025/index.php).
 * [02/2025] Invited to serve as TPC member for [IEEE MeditCom 2025](https://meditcom2025.ieee-meditcom.org/).
 * [12/2024] Our paper "[Intelligent Noise Mapping for Smart Cities: Solutions, Trends, and Research Opportunities](https://ieeexplore.ieee.org/document/10803925)" was published at IEEE Communications Magazine (Special Issue on Internet of Sound)!
