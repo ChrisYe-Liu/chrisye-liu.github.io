@@ -27,6 +27,8 @@ Research Interest
 
 News
 ------
+* [10/2025] Our paper on "Concurrent Wireless Power Transfer in the Internet of Batteryless Things" was accepted by  IEEE Transactions on Mobile Computing!
+* [10/2025] Invited to serve as TPC member for [IEE ICC-IoT and NGNI Technical Symposia](https://icc2026.ieee-icc.org/authors/call-symposia-papers).
 * [07/2025] Our paper "[Cracking the Code: LoRa Physical-Layer Insights and Signal Recovery under Cross-Technology Interference](https://ieeexplore.ieee.org/document/11062478)" was published at IEEE Transactions on Wireless Communications!
 * [02/2025] My proposal has been awarded the prestigious [Marie Skłodowska-Curie Postdoctoral Fellowship (MSCA-PF) 2024](https://marie-sklodowska-curie-actions.ec.europa.eu/news/msca-postdoctoral-fellowships-2024-receives-10360-proposals).
 * [02/2025] Invited to serve as TPC member for [IWCMC 2025 Wireless Networks Symposium](https://iwcmc.net/2025/index.php).
