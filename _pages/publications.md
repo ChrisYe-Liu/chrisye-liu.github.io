@@ -7,8 +7,12 @@ author_profile: true
 
 Journals
 ------
+$\color{red}{[WCM]}$
+**Ye Liu**, Mikael Gidlund, Honggang Wang, and Gerhard Petrus Hancke, “**Autonomous Networked Wireless Power Transfer for the Internet of Batteryless Things: Future Vision and Research Opportunities**”, *IEEE Wireless Communications*, 2025. 
+[PDF](https://chrisye-liu.github.io/files/ye25wcm.pdf) [BibTex]()  [Link]()
+
 $\color{red}{[TWC]}$
-Demin Gao, **Ye Liu**, Qiaolin Ye and Honggang Wang“**Cracking the Code: LoRa Physical-Layer Insights and Signal Recovery under Cross-Technology Interference**”, *IEEE Transactions on Wireless Communications*, 2025. 
+Demin Gao, **Ye Liu**, Qiaolin Ye and Honggang Wang,“**Cracking the Code: LoRa Physical-Layer Insights and Signal Recovery under Cross-Technology Interference**”, *IEEE Transactions on Wireless Communications*, 2025. 
 [PDF](https://chrisye-liu.github.io/files/demin25LoRa.pdf) [BibTex]()  [Link](https://ieeexplore.ieee.org/document/11062478)
 
 $\color{red}{[ComMag]}$

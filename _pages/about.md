@@ -27,6 +27,7 @@ Research Interest
 
 News
 ------
+* [12/2024] Our paper "[Autonomous Networked Wireless Power Transfer for the Internet of Batteryless Things: Future Vision and Research Opportunities](https://chrisye-liu.github.io/files/ye25wcm.pdf)" was accepted by  IEEE Wireless Communications!
 * [10/2025] Our paper on "Concurrent Wireless Power Transfer in the Internet of Batteryless Things" was accepted by  IEEE Transactions on Mobile Computing!
 * [10/2025] Invited to serve as TPC member for [IEE ICC-IoT and NGNI Technical Symposia](https://icc2026.ieee-icc.org/authors/call-symposia-papers).
 * [07/2025] Our paper "[Cracking the Code: LoRa Physical-Layer Insights and Signal Recovery under Cross-Technology Interference](https://ieeexplore.ieee.org/document/11062478)" was published at IEEE Transactions on Wireless Communications!
