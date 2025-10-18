@@ -9,23 +9,23 @@ Journals
 ------
 $\color{red}{[WCM]}$
 **Ye Liu**, Mikael Gidlund, Honggang Wang, and Gerhard Petrus Hancke, “**Autonomous Networked Wireless Power Transfer for the Internet of Batteryless Things: Future Vision and Research Opportunities**”, *IEEE Wireless Communications*, 2025. 
-[PDF](https://chrisye-liu.github.io/files/ye25wcm.pdf) [BibTex]()  [Link]()
+[PDF](https://chrisye-liu.github.io/files/ye25wcm.pdf)   [Link](https://ieeexplore.ieee.org/document/11205946)
 
 $\color{red}{[TWC]}$
 Demin Gao, **Ye Liu**, Qiaolin Ye and Honggang Wang,“**Cracking the Code: LoRa Physical-Layer Insights and Signal Recovery under Cross-Technology Interference**”, *IEEE Transactions on Wireless Communications*, 2025. 
-[PDF](https://chrisye-liu.github.io/files/demin25LoRa.pdf) [BibTex]()  [Link](https://ieeexplore.ieee.org/document/11062478)
+[PDF](https://chrisye-liu.github.io/files/demin25LoRa.pdf)  [Link](https://ieeexplore.ieee.org/document/11062478)
 
 $\color{red}{[ComMag]}$
 **Ye Liu**, Xiaoyuan Ma, and Carlo Alberto Boano,“**Intelligent Noise Mapping for Smart Cities: Solutions, Trends, and Research Opportunities**”, *IEEE Communications Magazine*, 2024. 
-[PDF](https://chrisye-liu.github.io/files/ye24IoS.pdf) [BibTex]()  [Link](https://ieeexplore.ieee.org/document/10803925)
+[PDF](https://chrisye-liu.github.io/files/ye24IoS.pdf)  [Link](https://ieeexplore.ieee.org/document/10803925)
 
 $\color{red}{[TCCN]}$
 **Ye Liu**, Pei Tian, Carlo Alberto Boano, Xiaoyuan Ma, Qing Yang, and Honggang Wang,“**A Low-Cost and Infrastructure-Less LoRa Wireless Network Testbed for Cognitive Internet of Things**”, *IEEE Transactions on Cognitive Communications and Networking*, 2024. 
-[PDF](https://chrisye-liu.github.io/files/ye2024chirpbox.pdf) [BibTex]()  [Link](https://ieeexplore.ieee.org/document/10680422)
+[PDF](https://chrisye-liu.github.io/files/ye2024chirpbox.pdf)  [Link](https://ieeexplore.ieee.org/document/10680422)
 
 $\color{red}{[TMM]}$
 Demin Gao, Liyuan Ou, **Ye Liu**, Qing Yang, and Honggang Wang,“**DeepSpoof: Deep Reinforcement Learning-Based Spoofing Attack in Cross-Technology Multimedia Communication**”, *IEEE Transactions on Multimedia*, 2024. 
-[PDF](https://chrisye-liu.github.io/files/demin24DeepSpoof.pdf) [BibTex]()  [Link](https://ieeexplore.ieee.org/document/10566040)
+[PDF](https://chrisye-liu.github.io/files/demin24DeepSpoof.pdf)   [Link](https://ieeexplore.ieee.org/document/10566040)
 
 
 $\color{red}{[WCM]}$
