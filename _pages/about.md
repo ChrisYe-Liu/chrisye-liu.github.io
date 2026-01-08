@@ -27,6 +27,7 @@ Research Interest
 
 News
 ------
+* [01/2026] Invited to serve as TPC member for [IEEE MeditCom 2026](https://meditcom2026.ieee-meditcom.org/).
 * [10/2025] Our paper "[Autonomous Networked Wireless Power Transfer for the Internet of Batteryless Things: Future Vision and Research Opportunities](https://chrisye-liu.github.io/files/ye25wcm.pdf)" was accepted by  IEEE Wireless Communications!
 * [10/2025] Our paper on "Concurrent Wireless Power Transfer in the Internet of Batteryless Things" was accepted by  IEEE Transactions on Mobile Computing!
 * [10/2025] Invited to serve as TPC member for [IEE ICC-IoT and NGNI Technical Symposia](https://icc2026.ieee-icc.org/authors/call-symposia-papers).

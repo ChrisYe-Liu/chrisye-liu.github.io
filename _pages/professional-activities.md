@@ -61,7 +61,7 @@ IEEE International Conference on Communications(ICC), Symposium on IoT and Senso
 
 IEEE International Conference on Communications(ICC), Symposium on Next-Generation Networking & Internet 2021, 2022, 2023，2024，2025, 2026
 
-IEEE Conference on Standards for Communications and Networking (CSCN)，2023,2024
+IEEE Conference on Standards for Communications and Networking (CSCN)，2023,2024, 2025
 
 The Conference on Innovation in Clouds, Internet and Networks (ICIN) 2020, 2021, 2022, 2023, 2024, 2025, 2026
 
@@ -71,7 +71,7 @@ The Asia Pacific Web (APWeb) and Web-Age Information Management (WAIM) Joint Int
 
 The International Wireless Communications & Mobile Computing Conference (IWCMC) 2023, 2024
 
-IEEE International Mediterranean Conference on Communications and Networking (MeditCom) 2023, 2024
+IEEE International Mediterranean Conference on Communications and Networking (MeditCom) 2023, 2024, 2025, 2026
 
 The Workshop on Crystal-Free/-Less Radio and System-based Research for IoT (CrystalFreeIoT) 2024
 
