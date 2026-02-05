@@ -7,6 +7,10 @@ author_profile: true
 
 Journals
 ------
+$\color{red}{[TMC]}$
+**Ye Liu**, Honggang Wang, and Mikael Gidlund, “**Concurrent Wireless Power Transfer in the Internet of Batteryless Things: Experiment and Modeling**”, * IEEE Transactions on Mobile Computing*, 2025. 
+[PDF](https://chrisye-liu.github.io/files/ye25tmc.pdf)   [Link](https://ieeexplore.ieee.org/document/11204664)
+
 $\color{red}{[WCM]}$
 **Ye Liu**, Mikael Gidlund, Honggang Wang, and Gerhard Petrus Hancke, “**Autonomous Networked Wireless Power Transfer for the Internet of Batteryless Things: Future Vision and Research Opportunities**”, *IEEE Wireless Communications*, 2025. 
 [PDF](https://chrisye-liu.github.io/files/ye25wcm.pdf)   [Link](https://ieeexplore.ieee.org/document/11205946)
