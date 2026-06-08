@@ -7,6 +7,9 @@ author_profile: true
 
 Journals
 ------
+$\color{red}{[JSAC]}$
+**Ye Liu**, Mikael Gidlund, Honggang Wang, and Shucheng Yu, “**Asynchronous Concurrent Wireless Power Transfer in Sustainable 6G Networks: A Systematic Analysis**”, * IEEE Journal on Selected Areas in Communications*, 2026. 
+[PDF](https://chrisye-liu.github.io/files/ye26JSAC.pdf)   [Link](https://ieeexplore.ieee.org/document/11552622)
 $\color{red}{[TMC]}$
 **Ye Liu**, Honggang Wang, and Mikael Gidlund, “**Concurrent Wireless Power Transfer in the Internet of Batteryless Things: Experiment and Modeling**”, *IEEE Transactions on Mobile Computing*, 2025. 
 [PDF](https://chrisye-liu.github.io/files/ye25tmc.pdf)   [Link](https://ieeexplore.ieee.org/document/11204664)
