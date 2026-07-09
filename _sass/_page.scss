@@ -105,6 +105,36 @@
     margin-top: -1.5em;
     padding-left: 1.25rem;
   }
+  .visitor-map {
+    display: block;
+    max-width: 640px;
+    margin: 1.5em auto 2em;
+    text-align: center;
+
+    &__link {
+      display: block;
+      line-height: 0;
+      text-decoration: none;
+      border: 1px solid $border-color;
+      border-radius: $border-radius;
+      background: #fff;
+      overflow: hidden;
+    }
+
+    img {
+      display: block;
+      width: 100%;
+      height: auto;
+      margin: 0;
+      border-radius: 0;
+    }
+
+    figcaption {
+      margin-top: 0.5em;
+      font-size: $type-size-6;
+      line-height: 1.4;
+    }
+  }
 }
 
 .page__hero {

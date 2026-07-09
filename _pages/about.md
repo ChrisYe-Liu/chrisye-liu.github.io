@@ -76,6 +76,12 @@ through Chirp Emulation, Snipping, and Multiplexing](https://chrisye-liu.github.
 
 ------
 
-<div class="visitor-map">
-  <script type="text/javascript" id="clustrmaps" src="https://cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=mBijBJ5D94MAVLqFRufg40ogHIrBiF1-SbfwZoVNwnY"></script>
-</div>
+Visitor Map
+------
+
+<figure class="visitor-map">
+  <a class="visitor-map__link" href="https://clustrmaps.com/map_v2.png?cl=ffffff&amp;w=640&amp;t=tt&amp;d=mBijBJ5D94MAVLqFRufg40ogHIrBiF1-SbfwZoVNwnY" target="_blank" rel="noopener">
+    <img src="https://clustrmaps.com/map_v2.png?cl=ffffff&amp;w=640&amp;t=tt&amp;d=mBijBJ5D94MAVLqFRufg40ogHIrBiF1-SbfwZoVNwnY" alt="Visitor country map" loading="lazy">
+  </a>
+  <figcaption>Visitor country map powered by ClustrMaps.</figcaption>
+</figure>
