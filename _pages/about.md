@@ -27,7 +27,10 @@ Research Interest
 
 News
 ------
+* [06/2026] Our paper on "[3-D Radiative Wireless Power Transfer for the Internet of Batteryless Things: Modeling and Experiments](https://ieeexplore.ieee.org/document/11573809)" was accepted by IEEE Transactions on Industrial Informatics!
+* [06/2026] Our paper on "[When Drone-Vehicle Networks Meets mmWave Communications: Current Status, Challenges, and Future Research Directions](https://ieeexplore.ieee.org/document/11586761)" was accepted by IEEE Wireless Communications!
 * [06/2026] Our paper on "[Asynchronous Concurrent Wireless Power Transfer in Sustainable 6G Networks: A Systematic Analysis](https://ieeexplore.ieee.org/document/11552622)" was accepted by  IEEE Journal on Selected Areas in Communications!
+* [05/2026] Our paper on "[A Systematic Review on Hyperspectral Remote Sensing for Plant Disease Detection: Principles, Technologies, and Future Trends](https://ieeexplore.ieee.org/document/11511366)" was accepted by IEEE Sensors Reviews!
 * [01/2026] Invited to serve as TPC member for [IEEE MeditCom 2026](https://meditcom2026.ieee-meditcom.org/).
 * [10/2025] Our paper "[Autonomous Networked Wireless Power Transfer for the Internet of Batteryless Things: Future Vision and Research Opportunities](https://chrisye-liu.github.io/files/ye25wcm.pdf)" was accepted by  IEEE Wireless Communications!
 * [10/2025] Our paper on "[Concurrent Wireless Power Transfer in the Internet of Batteryless Things](https://ieeexplore.ieee.org/document/11204664)" was accepted by  IEEE Transactions on Mobile Computing!
