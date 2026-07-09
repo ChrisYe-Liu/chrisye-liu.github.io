@@ -7,6 +7,14 @@ author_profile: true
 
 Journals
 ------
+$\color{red}{[WCM]}$
+**Ye Liu**, Honggang Wang, Yecheng Xie, and Ashikur Nobel, “**When Drone-Vehicle Networks Meets mmWave Communications: Current Status, Challenges, and Future Research Directions**”, *IEEE Wireless Communications*, 2026. 
+[PDF](https://chrisye-liu.github.io/files/ye26mmWave.pdf)   [Link](https://ieeexplore.ieee.org/document/11586761)
+
+$\color{red}{[TII]}$
+**Ye Liu**, Honggang Wang, and Mikael Gidlund, “**3-D Radiative Wireless Power Transfer for the Internet of Batteryless Things: Modeling and Experiments**”, *IEEE Transactions on Industrial Informatics*, 2026. 
+[PDF](https://chrisye-liu.github.io/files/ye263dwpt.pdf)   [Link](https://ieeexplore.ieee.org/document/11573809)
+
 $\color{red}{[JSAC]}$
 **Ye Liu**, Mikael Gidlund, Honggang Wang, and Shucheng Yu, “**Asynchronous Concurrent Wireless Power Transfer in Sustainable 6G Networks: A Systematic Analysis**”, *IEEE Journal on Selected Areas in Communications*, 2026. 
 [PDF](https://chrisye-liu.github.io/files/ye26JSAC.pdf)   [Link](https://ieeexplore.ieee.org/document/11552622)
