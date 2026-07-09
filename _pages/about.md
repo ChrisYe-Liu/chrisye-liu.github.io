@@ -80,41 +80,29 @@ Visitor Map
 ------
 
 <figure class="visitor-map" aria-label="Visitor map">
-  <div class="visitor-map__widget" aria-label="Live visitor globe">
-    <script type="text/javascript" src="https://rf.revolvermaps.com/0/0/8.js?i=5x85hzl2pd8&amp;m=0&amp;c=0077b6&amp;cr1=ffffff&amp;f=arial&amp;l=0" async="async"></script>
+  <div class="visitor-map__widget" aria-label="Live visitor map">
+    <script id="_waumap">var _wau = _wau || []; _wau.push(["map", "chrisyeliu", "map", "560", "280", "night", "cross-pink"]);</script><script async src="https://waust.at/m.js"></script>
   </div>
-  <div class="visitor-map__fallback" role="img" aria-label="World visitor map fallback">
-    <svg viewBox="0 0 640 320" focusable="false" aria-hidden="true">
-      <rect x="0" y="0" width="640" height="320" rx="8" fill="#f8fbfd"/>
-      <path d="M94 92l42-22 56 8 26 24-15 31-51 5-34 33-45-14-18-38zM255 86l52-21 66 16 27 38-22 39-60 10-39-23-40 11-18-35zM428 112l58-32 78 17 28 42-30 36-77-4-43 27-31-31zM132 213l42-20 44 20 7 35-38 28-51-17zM320 205l54-14 51 24 12 45-39 31-59-20-33-32z" fill="#d6e6f2" stroke="#8bb5cf" stroke-width="3"/>
-      <g fill="#0077b6">
-        <circle cx="430" cy="122" r="7"/>
-        <circle cx="504" cy="153" r="6"/>
-        <circle cx="320" cy="126" r="7"/>
-        <circle cx="156" cy="117" r="6"/>
-        <circle cx="371" cy="238" r="6"/>
-      </g>
-    </svg>
-    <p>Live visitor globe is temporarily unavailable. Please refresh when the external widget service is reachable.</p>
-  </div>
-  <figcaption>Live visitor globe powered by RevolverMaps.</figcaption>
+  <p class="visitor-map__fallback">Visitor map is loading. If it does not appear, the external map service may be temporarily unavailable.</p>
+  <figcaption>Live visitor map powered by whos.amung.us.</figcaption>
 </figure>
 <script>
   (function () {
-    function showVisitorMapFallback() {
+    function markVisitorMapLoaded() {
       var map = document.querySelector('.visitor-map');
       if (!map) return;
       var widget = map.querySelector('.visitor-map__widget');
-      if (!widget || widget.querySelector('iframe, canvas, object, embed, img')) return;
-      map.className += ' visitor-map--fallback-visible';
+      if (widget && widget.querySelector('iframe, canvas, object, embed, img')) {
+        map.className += ' visitor-map--loaded';
+      }
     }
 
     if (document.readyState === 'loading') {
       document.addEventListener('DOMContentLoaded', function () {
-        window.setTimeout(showVisitorMapFallback, 4000);
+        window.setTimeout(markVisitorMapLoaded, 2500);
       });
     } else {
-      window.setTimeout(showVisitorMapFallback, 4000);
+      window.setTimeout(markVisitorMapLoaded, 2500);
     }
   }());
 </script>
