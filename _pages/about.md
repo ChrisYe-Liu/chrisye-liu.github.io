@@ -76,33 +76,12 @@ through Chirp Emulation, Snipping, and Multiplexing](https://chrisye-liu.github.
 
 ------
 
-Visitor Map
+Visitor Countries
 ------
 
-<figure class="visitor-map" aria-label="Visitor map">
-  <div class="visitor-map__widget" aria-label="Live visitor map">
-    <script id="_waumap">var _wau = _wau || []; _wau.push(["map", "chrisyeliu", "map", "560", "280", "night", "cross-pink"]);</script><script async src="https://waust.at/m.js"></script>
-  </div>
-  <p class="visitor-map__fallback">Visitor map is loading. If it does not appear, the external map service may be temporarily unavailable.</p>
-  <figcaption>Live visitor map powered by whos.amung.us.</figcaption>
+<figure class="visitor-map" aria-label="Visitor countries">
+  <a class="visitor-map__counter" href="https://info.flagcounter.com/PMjk" target="_blank" rel="noopener">
+    <img src="https://s01.flagcounter.com/count2/PMjk/bg_FFFFFF/txt_333333/border_DDDDDD/columns_4/maxflags_16/viewers_3/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter">
+  </a>
+  <figcaption>Visitor countries powered by Flag Counter.</figcaption>
 </figure>
-<script>
-  (function () {
-    function markVisitorMapLoaded() {
-      var map = document.querySelector('.visitor-map');
-      if (!map) return;
-      var widget = map.querySelector('.visitor-map__widget');
-      if (widget && widget.querySelector('iframe, canvas, object, embed, img')) {
-        map.className += ' visitor-map--loaded';
-      }
-    }
-
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', function () {
-        window.setTimeout(markVisitorMapLoaded, 2500);
-      });
-    } else {
-      window.setTimeout(markVisitorMapLoaded, 2500);
-    }
-  }());
-</script>
