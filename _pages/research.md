@@ -9,7 +9,7 @@ author_profile: true
   <img src="/images/research/wpt.png" alt=""
   style="float:left" width="250" height="188">
 <figcaption> 
-<h4><font  color=blue size=3><b>Dependable Wireless Power Transfer</b></font></h4>
+<h4><font  color=blue size=3><b>Dependable Wireless Power Transfer for Batteryless IoT</b></font></h4>
 <p style="text-align:justify;">
 Wireless power transfer (WPT) is a promising technology for powering batteryless and energy-autonomous IoT devices. However, reliable energy delivery remains challenging due to dynamic wireless channels, asynchronous power transmissions, and the nonlinear behavior of energy-harvesting circuits. Counterintuitively, adding more power sources may not always improve energy availability and can even cause energy black holes, significantly degrading system performance. To address these challenges, we investigate dependable WPT, with a focus on understanding and mitigating energy unreliability through analytical modeling, system design, and experimental evaluation, ultimately enabling predictable and reliable energy delivery for batteryless IoT systems.
 The related papers have been published in <font  color=red ><b>IEEE WCM 2022</b></font> <a href="https://chrisye-liu.github.io/files/ye22understandingWPT.pdf" target="_blank">[PDF]</a>,
