@@ -186,7 +186,7 @@ author_profile: true
       coarse-grained and often static estimates. To address this gap, we investigate
       DAMPEN, a versatile wireless acoustic sensor network for real-time,
       fine-grained, and large-scale environmental noise mapping. DAMPEN integrates
-      acoustic sensor networks, mobile crowdsensing, edge鈥揷loud computing, and
+      acoustic sensor networks, mobile crowdsensing, edge-cloud computing, and
       AI-assisted analytics to support dynamic visualization, noise-source
       recognition, personal exposure assessment, and data-driven noise mitigation.
       Our research further explores dependable multimedia transmission,
