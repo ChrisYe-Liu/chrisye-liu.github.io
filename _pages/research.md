@@ -6,12 +6,14 @@ author_profile: true
 ---
 <hr style="height:1px;border:none;border-top:1px solid #555555;" /> 
 <p>
-  <img src="/images/research/chirpbox.jpg" alt=""
+  <img src="/images/research/wpt.png" alt=""
   style="float:left" width="250" height="188">
 <figcaption> 
-<h4><font  color=blue size=3><b>ChirpBox: An Infrastructure-Less LoRa Testbed</b></font></h4>
+<h4><font  color=blue size=3><b>Dependable Wireless Power Transfer</b></font></h4>
 <p style="text-align:justify;">
-A key obstacle hindering the development of large-scale LoRa testbeds outdoors is the lack of a backbone infrastructure allowing them to communicate with the nodes and supply them with power easily. As a result, many LoRa installations are deployed indoors or only support a handful of outdoor devices, which does not allow proper testing. To bridge this gap, we built ChirpBox, an infrastructure-less LoRa testbed. ChirpBox is <b>open source</b>, and the <font  color=red ><b>tutorial website </b></font>can be found at <a href="https://chirpbox.github.io/" target="_blank">[Link]</a>.  The related papers have been published in <font  color=red ><b>EWSN 2021</b></font> <a href="https://chrisye-liu.github.io/files/pei21chirpbox.pdf" target="_blank">[PDF]</a>, <font  color=red ><b>SenSys-DATA 2021</b></font> <a href="https://chrisye-liu.github.io/files/pei21loradataset.pdf" target="_blank">[PDF]</a>, <font  color=red ><b>IPSN 2022</b></font> <a href="https://chrisye-liu.github.io/files/yang22emu.pdf" target="_blank">[PDF]</a>, and <font  color=red ><b>IEEE TCCN 2025</b></font> <a href="https://chrisye-liu.github.io/files/ye2024chirpbox.pdf" target="_blank">[PDF]</a>.
+Wireless power transfer (WPT) is a promising technology for powering batteryless and energy-autonomous IoT devices. However, reliable energy delivery remains challenging due to dynamic wireless channels, asynchronous power transmissions, and the nonlinear behavior of energy-harvesting circuits. To address these challenges, we investigate dependable WPT, with a focus on understanding and mitigating energy unreliability through analytical modeling, system design, and experimental evaluation.
+The related papers have been published in <font  color=red ><b>IEEE WCM 2022</b></font> <a href="https://chrisye-liu.github.io/files/ye22understandingWPT.pdf" target="_blank">[PDF]</a>,
+<font  color=red ><b>IEEE WCM 2024</b></font> <a href="https://chrisye-liu.github.io/files/ye24wpt.pdf" target="_blank">[PDF]</a>, <font  color=red ><b>IEEE WCM 2025</b></font> <a href="https://chrisye-liu.github.io/files/ye25wcm.pdf" target="_blank">[PDF]</a>, <font  color=red ><b>IEEE TMC 2025</b></font> <a href="https://chrisye-liu.github.io/files/ye25tmc.pdf" target="_blank">[PDF]</a>, and <font  color=red ><b>IEEE JSAC 2026</b></font> <a href="https://chrisye-liu.github.io/files/ye26JSAC.pdf" target="_blank">[PDF]</a>.
 </p>
 </figcaption>
 <p>
