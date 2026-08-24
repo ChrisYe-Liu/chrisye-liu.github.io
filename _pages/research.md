@@ -1,65 +1,300 @@
 ---
-#layout: archive
+layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
 ---
-<hr style="height:1px;border:none;border-top:1px solid #555555;" /> 
-<p>
-  <img src="/images/research/wpt.png" alt=""
-  style="float:left" width="250" height="188">
-<figcaption> 
-<h4><font  color=blue size=3><b>Dependable Wireless Power Transfer for Batteryless IoT</b></font></h4>
-<p style="text-align:justify;">
-Wireless power transfer (WPT) is a promising technology for powering batteryless and energy-autonomous IoT devices. However, reliable energy delivery remains challenging due to dynamic wireless channels, asynchronous power transmissions, and the nonlinear behavior of energy-harvesting circuits. Counterintuitively, adding more power sources may not always improve energy availability and can even cause energy black holes, significantly degrading system performance. To address these challenges, we investigate dependable WPT, with a focus on understanding and mitigating energy unreliability through analytical modeling, system design, and experimental evaluation, ultimately enabling predictable and reliable energy delivery for batteryless IoT systems.
-The related papers have been published in <font  color=red ><b>IEEE WCM 2022</b></font> <a href="https://chrisye-liu.github.io/files/ye22understandingWPT.pdf" target="_blank">[PDF]</a>,
-<font  color=red ><b>IEEE WCM 2024</b></font> <a href="https://chrisye-liu.github.io/files/ye24wpt.pdf" target="_blank">[PDF]</a>, <font  color=red ><b>IEEE WCM 2025</b></font> <a href="https://chrisye-liu.github.io/files/ye25wcm.pdf" target="_blank">[PDF]</a>, <font  color=red ><b>IEEE TMC 2025</b></font> <a href="https://chrisye-liu.github.io/files/ye25tmc.pdf" target="_blank">[PDF]</a>, <font  color=red ><b>IEEE TII 2026</b></font> <a href="https://chrisye-liu.github.io/files/ye263dwpt.pdf" target="_blank">[PDF]</a>, and <font  color=red ><b>IEEE JSAC 2026</b></font> <a href="https://chrisye-liu.github.io/files/ye26JSAC.pdf" target="_blank">[PDF]</a>.
-</p>
-</figcaption>
-<p>
-<hr style="height:1px;border:none;border-top:1px solid #555555;" /> 
-<p>
-  <img src="/images/research/chirpbox.jpg" alt=""
-  style="float:left" width="250" height="188">
-<figcaption> 
-<h4><font  color=blue size=3><b>ChirpBox: An Infrastructure-Less LoRa Testbed</b></font></h4>
-<p style="text-align:justify;">
-A key obstacle hindering the development of large-scale LoRa testbeds outdoors is the lack of a backbone infrastructure allowing them to communicate with the nodes and supply them with power easily. As a result, many LoRa installations are deployed indoors or only support a handful of outdoor devices, which does not allow proper testing. To bridge this gap, we built ChirpBox, an infrastructure-less LoRa testbed. ChirpBox is <b>open source</b>, and the <font  color=red ><b>tutorial website </b></font>can be found at <a href="https://chirpbox.github.io/" target="_blank">[Link]</a>.  The related papers have been published in <font  color=red ><b>EWSN 2021</b></font> <a href="https://chrisye-liu.github.io/files/pei21chirpbox.pdf" target="_blank">[PDF]</a>, <font  color=red ><b>SenSys-DATA 2021</b></font> <a href="https://chrisye-liu.github.io/files/pei21loradataset.pdf" target="_blank">[PDF]</a>, <font  color=red ><b>IPSN 2022</b></font> <a href="https://chrisye-liu.github.io/files/yang22emu.pdf" target="_blank">[PDF]</a>, and <font  color=red ><b>IEEE TCCN 2025</b></font> <a href="https://chrisye-liu.github.io/files/ye2024chirpbox.pdf" target="_blank">[PDF]</a>.
-</p>
-</figcaption>
-<p>
-<hr style="height:1px;border:none;border-top:1px solid #555555;" /> 
-<p>
-  <img src="/images/research/ewsncompetition.jpg" alt=""
-  style="float:left" width="250" height="188">
-<figcaption> 
-<h4><font  color=blue size=3><b>Dependable Wireless Network Protocols for IoT</b></font></h4>
-<p style="text-align:justify;">
-Wireless networking in the Internet of Things is challenging because massive of devices in a relatively small region need to be interconnected. Particularly, the CSMA/CA operation is not a viable solution since a dense network leads to high channel contentions. Moreover, external radio interference can indeed undermine network dependability. Thus, we proposed and implemented protocols to address this challenge. This research work was supported by NSFC. The related papers have been published in <font  color=red ><b>PPNA 2018</b></font> <a href="https://chrisye-liu.github.io/files/ye18crosslayer.pdf" target="_blank">[PDF]</a>, <font  color=red ><b>INFOCOM 2020</b></font> <a href="https://chrisye-liu.github.io/files/xiao20harmony.pdf" target="_blank">[PDF]</a>, and <font  color=red ><b>ICNP 2020</b></font> <a href="https://chrisye-liu.github.io/files/michael20ct.pdf" target="_blank">[PDF]</a>.
-</p>
-</figcaption>
-<p>
-<hr style="height:1px;border:none;border-top:1px solid #555555;" /> 
-<p>
-  <img src="/images/research/ecovibe.jpg" alt=""
-  style="float:left" width="250" height="188">
-<figcaption> 
-<h4><font  color=blue size=3><b>On-Demand Railway Bridge Structural Health Monitoring</b></font></h4>
-<p style="text-align:justify;">
-Over 73,000 railway bridges are older than 110 years in Europe. The IoT is promising for railway bridge health monitoring. However, existing energy-efficient approaches, such as duty cycling and energy harvesting, face challenges in this application due to the unpredictability of train passages and insufficient ambient energy around bridges. We proposed EocVibe, the first railway bridge monitoring IoT system that provides on-demand sensing with near-zero idle energy dissipation. This research work was supported by VINNOVA. The related papers have been published in <font  color=red ><b>IEEE ComMag 2016</b></font> <a href="https://chrisye-liu.github.io/files/ye16EcoSense.pdf" target="_blank">[PDF]</a> and <font  color=red ><b>IEEE IoTJ 2019</b></font> <a href="https://chrisye-liu.github.io/files/ye19EcoVibe.pdf" target="_blank">[PDF]</a>.
-</p>
-</figcaption>
-<p>
-<hr style="height:1px;border:none;border-top:1px solid #555555;" /> 
-<p>
-  <img src="/images/research/water.jpg" alt=""
-  style="float:left" width="250" height="200">
-<figcaption> 
-<h4><font  color=blue size=3><b>Harvest Energy from Water: A Green Water Quality Sensing System</b></font></h4>
-<p style="text-align:justify;">
-Water quality data is crucial and valuable, but its acquisition is not always trivial. A promising solution is to distribute a wireless sensor network in water to measure and collect the data. However, a drawback exists in that the system's batteries must be replaced or recharged after being exhausted. To mitigate this issue, we designed a self-sustained and on-demand water quality sensing system powered by renewable bioenergy from microbial fuel cells. This research work was supported by the Exploratory Advanced Research Program of FHWA.  The related papers have been published in <font  color=red ><b>IEEE ComMag 2016</b></font> <a href="https://chrisye-liu.github.io/files/ye16EcoSense.pdf" target="_blank">[PDF]</a> and <font  color=red ><b>ACM TECS 2017</b></font> <a href="https://chrisye-liu.github.io/files/qi17watersensing.pdf" target="_blank">[PDF]</a>.
-</p>
-</figcaption>
-<p>
-<hr style="height:1px;border:none;border-top:1px solid #555555;" /> 
 
+<style>
+.research-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 22px;
+  margin: 25px 0;
+}
+
+.research-image {
+  width: 250px;
+  height: auto;
+  flex-shrink: 0;
+  padding: 4px;
+  border: 1px solid #dddddd;
+  border-radius: 5px;
+  box-sizing: border-box;
+}
+
+.research-content {
+  flex: 1;
+  min-width: 0;
+}
+
+.research-content h4 {
+  margin-top: 0;
+  margin-bottom: 10px;
+  color: blue;
+  font-size: 1rem;
+}
+
+.research-content p {
+  margin-top: 0;
+  text-align: justify;
+}
+
+.research-venue {
+  color: red;
+  font-weight: bold;
+}
+
+.research-divider {
+  border: none;
+  border-top: 1px solid #555555;
+  margin: 25px 0;
+}
+
+/* Mobile devices */
+@media (max-width: 768px) {
+  .research-item {
+    flex-direction: column;
+    gap: 15px;
+  }
+
+  .research-image {
+    width: 100%;
+    max-width: 350px;
+    height: auto;
+    margin: 0 auto;
+  }
+}
+</style>
+
+
+<hr class="research-divider">
+
+<div class="research-item">
+
+  <img
+    src="/images/research/wpt.png"
+    alt="Dependable Wireless Power Transfer for Batteryless IoT"
+    class="research-image"
+  >
+
+  <div class="research-content">
+
+    <h4><b>Dependable Wireless Power Transfer for Batteryless IoT</b></h4>
+
+    <p>
+      Wireless power transfer (WPT) is a promising technology for powering
+      batteryless and energy-autonomous IoT devices. However, reliable energy
+      delivery remains challenging due to dynamic wireless channels,
+      asynchronous power transmissions, and the nonlinear behavior of
+      energy-harvesting circuits. Counterintuitively, adding more power sources
+      may not always improve energy availability and can even cause energy black
+      holes, significantly degrading system performance. To address these
+      challenges, we investigate dependable WPT, with a focus on understanding
+      and mitigating energy unreliability through analytical modeling, system
+      design, and experimental evaluation, ultimately enabling predictable and
+      reliable energy delivery for batteryless IoT systems.
+    </p>
+
+    <p>
+      The related papers have been published in
+      <span class="research-venue">IEEE WCM 2022</span>
+      <a href="https://chrisye-liu.github.io/files/ye22understandingWPT.pdf"
+         target="_blank">[PDF]</a>,
+      <span class="research-venue">IEEE WCM 2024</span>
+      <a href="https://chrisye-liu.github.io/files/ye24wpt.pdf"
+         target="_blank">[PDF]</a>,
+      <span class="research-venue">IEEE WCM 2025</span>
+      <a href="https://chrisye-liu.github.io/files/ye25wcm.pdf"
+         target="_blank">[PDF]</a>,
+      <span class="research-venue">IEEE TMC 2025</span>
+      <a href="https://chrisye-liu.github.io/files/ye25tmc.pdf"
+         target="_blank">[PDF]</a>,
+      <span class="research-venue">IEEE TII 2026</span>
+      <a href="https://chrisye-liu.github.io/files/ye263dwpt.pdf"
+         target="_blank">[PDF]</a>,
+      and
+      <span class="research-venue">IEEE JSAC 2026</span>
+      <a href="https://chrisye-liu.github.io/files/ye26JSAC.pdf"
+         target="_blank">[PDF]</a>.
+    </p>
+
+  </div>
+</div>
+
+
+<hr class="research-divider">
+
+
+<div class="research-item">
+
+  <img
+    src="/images/research/chirpbox.jpg"
+    alt="ChirpBox: An Infrastructure-Less LoRa Testbed"
+    class="research-image"
+  >
+
+  <div class="research-content">
+
+    <h4><b>ChirpBox: An Infrastructure-Less LoRa Testbed</b></h4>
+
+    <p>
+      A key obstacle hindering the development of large-scale LoRa testbeds
+      outdoors is the lack of a backbone infrastructure allowing them to
+      communicate with the nodes and supply them with power easily. As a result,
+      many LoRa installations are deployed indoors or only support a handful of
+      outdoor devices, which does not allow proper testing. To bridge this gap,
+      we built ChirpBox, an infrastructure-less LoRa testbed.
+    </p>
+
+    <p>
+      ChirpBox is <b>open source</b>, and the
+      <span class="research-venue">tutorial website</span>
+      can be found at
+      <a href="https://chirpbox.github.io/" target="_blank">[Link]</a>.
+      The related papers have been published in
+      <span class="research-venue">EWSN 2021</span>
+      <a href="https://chrisye-liu.github.io/files/pei21chirpbox.pdf"
+         target="_blank">[PDF]</a>,
+      <span class="research-venue">SenSys-DATA 2021</span>
+      <a href="https://chrisye-liu.github.io/files/pei21loradataset.pdf"
+         target="_blank">[PDF]</a>,
+      <span class="research-venue">IPSN 2022</span>
+      <a href="https://chrisye-liu.github.io/files/yang22emu.pdf"
+         target="_blank">[PDF]</a>,
+      and
+      <span class="research-venue">IEEE TCCN 2025</span>
+      <a href="https://chrisye-liu.github.io/files/ye2024chirpbox.pdf"
+         target="_blank">[PDF]</a>.
+    </p>
+
+  </div>
+</div>
+
+
+<hr class="research-divider">
+
+
+<div class="research-item">
+
+  <img
+    src="/images/research/ewsncompetition.jpg"
+    alt="Dependable Wireless Network Protocols for IoT"
+    class="research-image"
+  >
+
+  <div class="research-content">
+
+    <h4><b>Dependable Wireless Network Protocols for IoT</b></h4>
+
+    <p>
+      Wireless networking in the Internet of Things is challenging because a
+      massive number of devices in a relatively small region need to be
+      interconnected. Particularly, the CSMA/CA operation is not a viable
+      solution since a dense network leads to high channel contention.
+      Moreover, external radio interference can undermine network dependability.
+      Thus, we proposed and implemented protocols to address these challenges.
+      This research work was supported by NSFC.
+    </p>
+
+    <p>
+      The related papers have been published in
+      <span class="research-venue">PPNA 2018</span>
+      <a href="https://chrisye-liu.github.io/files/ye18crosslayer.pdf"
+         target="_blank">[PDF]</a>,
+      <span class="research-venue">INFOCOM 2020</span>
+      <a href="https://chrisye-liu.github.io/files/xiao20harmony.pdf"
+         target="_blank">[PDF]</a>,
+      and
+      <span class="research-venue">ICNP 2020</span>
+      <a href="https://chrisye-liu.github.io/files/michael20ct.pdf"
+         target="_blank">[PDF]</a>.
+    </p>
+
+  </div>
+</div>
+
+
+<hr class="research-divider">
+
+
+<div class="research-item">
+
+  <img
+    src="/images/research/ecovibe.jpg"
+    alt="On-Demand Railway Bridge Structural Health Monitoring"
+    class="research-image"
+  >
+
+  <div class="research-content">
+
+    <h4><b>On-Demand Railway Bridge Structural Health Monitoring</b></h4>
+
+    <p>
+      Over 73,000 railway bridges are older than 110 years in Europe.
+      The IoT is promising for railway bridge health monitoring. However,
+      existing energy-efficient approaches, such as duty cycling and energy
+      harvesting, face challenges in this application due to the unpredictability
+      of train passages and insufficient ambient energy around bridges.
+      We proposed EcoVibe, the first railway bridge monitoring IoT system that
+      provides on-demand sensing with near-zero idle energy dissipation.
+      This research work was supported by VINNOVA.
+    </p>
+
+    <p>
+      The related papers have been published in
+      <span class="research-venue">IEEE ComMag 2016</span>
+      <a href="https://chrisye-liu.github.io/files/ye16EcoSense.pdf"
+         target="_blank">[PDF]</a>
+      and
+      <span class="research-venue">IEEE IoTJ 2019</span>
+      <a href="https://chrisye-liu.github.io/files/ye19EcoVibe.pdf"
+         target="_blank">[PDF]</a>.
+    </p>
+
+  </div>
+</div>
+
+
+<hr class="research-divider">
+
+
+<div class="research-item">
+
+  <img
+    src="/images/research/water.jpg"
+    alt="Harvest Energy from Water: A Green Water Quality Sensing System"
+    class="research-image"
+  >
+
+  <div class="research-content">
+
+    <h4><b>Harvest Energy from Water: A Green Water Quality Sensing System</b></h4>
+
+    <p>
+      Water quality data is crucial and valuable, but its acquisition is not
+      always trivial. A promising solution is to distribute a wireless sensor
+      network in water to measure and collect the data. However, a drawback
+      exists in that the system's batteries must be replaced or recharged after
+      being exhausted. To mitigate this issue, we designed a self-sustained and
+      on-demand water quality sensing system powered by renewable bioenergy from
+      microbial fuel cells. This research work was supported by the Exploratory
+      Advanced Research Program of FHWA.
+    </p>
+
+    <p>
+      The related papers have been published in
+      <span class="research-venue">IEEE ComMag 2016</span>
+      <a href="https://chrisye-liu.github.io/files/ye16EcoSense.pdf"
+         target="_blank">[PDF]</a>
+      and
+      <span class="research-venue">ACM TECS 2017</span>
+      <a href="https://chrisye-liu.github.io/files/qi17watersensing.pdf"
+         target="_blank">[PDF]</a>.
+    </p>
+
+  </div>
+</div>
+
+
+<hr class="research-divider">
