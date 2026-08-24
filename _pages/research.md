@@ -185,7 +185,7 @@ author_profile: true
        ">
 
   <h4 style="color:blue; font-size:16px; margin-top:0;">
-    <b>DAMPEN: Dynamic Mapping of Environmental Noise</b>
+    <b>Dynamic Mapping of Environmental Noise with IoT</b>
   </h4>
 
   <p style="text-align:justify; margin-top:0;">
@@ -204,10 +204,10 @@ author_profile: true
     easy-to-maintain, sustainable, dependable, and trustworthy</b> sensing
     infrastructure for smart cities and industrial environments. Related papers
     have been published in <b>IEEE Network 2020</b>
-    <a href="https://ieeexplore.ieee.org/document/9108997"
+    <a href="https://chrisye-liu.github.io/files/ye20noisemap.pdf"
        target="_blank" rel="noopener noreferrer">[Paper]</a>
     and <b>IEEE Industrial Electronics Magazine 2021</b>
-    <a href="https://ieeexplore.ieee.org/document/9359889"
+    <a href="https://chrisye-liu.github.io/files/ye21industrialnoise.pdf"
        target="_blank" rel="noopener noreferrer">[Paper]</a>.
   </p>
 
