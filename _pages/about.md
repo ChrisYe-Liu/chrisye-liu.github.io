@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to My Homepage!"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -18,8 +18,8 @@ I am currently working at Nanjing Agricultural University. Before that, I was a 
 
 Research Interest
 ------
-* Internet of Things，Wireless Sensor Networks
-* Energy Harvesting, Wireless Power Transfer
+* Internet of Things and Wireless Sensor Networks
+* Energy Harvesting and Wireless Power Transfer
 * Tiny Machine Learning
 * Smart Agriculture, Smart City, Noise Mapping, etc.
 
