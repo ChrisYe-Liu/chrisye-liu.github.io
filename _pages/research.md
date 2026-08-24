@@ -7,16 +7,15 @@ author_profile: true
 
 <style>
 .research-item {
-  display: flex;
-  align-items: flex-start;
-  gap: 22px;
+  display: flow-root;
   margin: 25px 0;
 }
 
 .research-image {
+  float: left;
   width: 320px;
   height: auto;
-  flex-shrink: 0;
+  margin: 0 24px 12px 0;
   padding: 6px;
   border: 1px solid #dddddd;
   border-radius: 4px;
@@ -25,7 +24,6 @@ author_profile: true
 }
 
 .research-content {
-  flex: 1;
   min-width: 0;
 }
 
@@ -54,16 +52,13 @@ author_profile: true
 
 /* Mobile devices */
 @media (max-width: 768px) {
-  .research-item {
-    flex-direction: column;
-    gap: 15px;
-  }
-
   .research-image {
+    float: none;
+    display: block;
     width: 100%;
     max-width: 320px;
     height: auto;
-    margin: 0 auto;
+    margin: 0 auto 15px;
     box-sizing: border-box;
   }
 }
