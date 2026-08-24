@@ -94,9 +94,7 @@ author_profile: true
       and mitigating energy unreliability through analytical modeling, system
       design, and experimental evaluation, ultimately enabling predictable and
       reliable energy delivery for batteryless IoT systems.
-    </p>
-
-    <p>
+   
       The related papers have been published in
       <span class="research-venue">IEEE WCM 2022</span>
       <a href="https://chrisye-liu.github.io/files/ye22understandingWPT.pdf"
@@ -145,9 +143,7 @@ author_profile: true
       many LoRa installations are deployed indoors or only support a handful of
       outdoor devices, which does not allow proper testing. To bridge this gap,
       we built ChirpBox, an infrastructure-less LoRa testbed.
-    </p>
-
-    <p>
+   
       ChirpBox is <b>open source</b>, and the
       <span class="research-venue">tutorial website</span>
       can be found at
@@ -195,9 +191,7 @@ author_profile: true
       Moreover, external radio interference can undermine network dependability.
       Thus, we proposed and implemented protocols to address these challenges.
       This research work was supported by NSFC.
-    </p>
-
-    <p>
+  
       The related papers have been published in
       <span class="research-venue">PPNA 2018</span>
       <a href="https://chrisye-liu.github.io/files/ye18crosslayer.pdf"
@@ -239,9 +233,7 @@ author_profile: true
       We proposed EcoVibe, the first railway bridge monitoring IoT system that
       provides on-demand sensing with near-zero idle energy dissipation.
       This research work was supported by VINNOVA.
-    </p>
-
-    <p>
+  
       The related papers have been published in
       <span class="research-venue">IEEE ComMag 2016</span>
       <a href="https://chrisye-liu.github.io/files/ye16EcoSense.pdf"
@@ -280,9 +272,7 @@ author_profile: true
       on-demand water quality sensing system powered by renewable bioenergy from
       microbial fuel cells. This research work was supported by the Exploratory
       Advanced Research Program of FHWA.
-    </p>
-
-    <p>
+  
       The related papers have been published in
       <span class="research-venue">IEEE ComMag 2016</span>
       <a href="https://chrisye-liu.github.io/files/ye16EcoSense.pdf"
