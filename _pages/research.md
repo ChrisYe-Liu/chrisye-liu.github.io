@@ -171,8 +171,8 @@ author_profile: true
 
 <div style="overflow:hidden; margin:20px 0 30px 0;">
 
-  <img src="/images/research/dampen.jpg"
-       alt="DAMPEN: Dynamic Mapping of Environmental Noise"
+  <img src="/images/research/noisemapping.jpg"
+       alt="Dynamic Mapping of Environmental Noise with IoT"
        style="
          float:left;
          width:320px;
@@ -193,20 +193,20 @@ author_profile: true
     urban development. However, conventional noise-mapping approaches largely
     rely on costly manual measurements or computational models that provide
     coarse-grained and often static estimates. To address this gap, we investigate
-    <b>DAMPEN</b>, a versatile wireless acoustic sensor network for real-time,
+    DAMPEN, a versatile wireless acoustic sensor network for real-time,
     fine-grained, and large-scale environmental noise mapping. DAMPEN integrates
     acoustic sensor networks, mobile crowdsensing, edge–cloud computing, and
     AI-assisted analytics to support dynamic visualization, noise-source
     recognition, personal exposure assessment, and data-driven noise mitigation.
     Our research further explores dependable multimedia transmission,
     energy-efficient and event-triggered sensing, and defenses against inaudible
-    sound attacks. The long-term goal is to build a <b>low-cost, scalable,
-    easy-to-maintain, sustainable, dependable, and trustworthy</b> sensing
+    sound attacks. The long-term goal is to build a low-cost, scalable,
+    easy-to-maintain, sustainable, dependable, and trustworthy sensing
     infrastructure for smart cities and industrial environments. Related papers
-    have been published in <b>IEEE Network 2020</b>
+    have been published in <span class="research-venue">IEEE Network 2020</span>
     <a href="https://chrisye-liu.github.io/files/ye20noisemap.pdf"
        target="_blank" rel="noopener noreferrer">[Paper]</a>
-    and <b>IEEE Industrial Electronics Magazine 2021</b>
+    and <span class="research-venue">IEEE Industrial Electronics Magazine 2021</span>
     <a href="https://chrisye-liu.github.io/files/ye21industrialnoise.pdf"
        target="_blank" rel="noopener noreferrer">[Paper]</a>.
   </p>
