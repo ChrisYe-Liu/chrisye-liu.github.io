@@ -18,7 +18,7 @@ Research Interest
 ------
 * Internet of Things and Wireless Sensor Networks
 * Energy Harvesting and Wireless Power Transfer
-* Tiny Machine Learning
+* Tiny Machine Learning (TinyML) and Edge Intelligence
 * Smart Agriculture, Smart City, Noise Mapping, etc.
 
 ------
