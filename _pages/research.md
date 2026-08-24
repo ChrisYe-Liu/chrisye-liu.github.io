@@ -14,13 +14,14 @@ author_profile: true
 }
 
 .research-image {
-  width: 250px;
+  width: 320px;
   height: auto;
   flex-shrink: 0;
-  padding: 4px;
+  padding: 6px;
   border: 1px solid #dddddd;
-  border-radius: 5px;
-  box-sizing: border-box;
+  border-radius: 4px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+  box-sizing: content-box;
 }
 
 .research-content {
@@ -60,9 +61,10 @@ author_profile: true
 
   .research-image {
     width: 100%;
-    max-width: 350px;
+    max-width: 320px;
     height: auto;
     margin: 0 auto;
+    box-sizing: border-box;
   }
 }
 </style>
@@ -167,53 +169,46 @@ author_profile: true
   </div>
 </div>
 
-<hr style="height:1px; border:none; border-top:1px solid #555555;" />
+<hr class="research-divider">
 
-<div style="overflow:hidden; margin:20px 0 30px 0;">
 
-  <img src="/images/research/noisemapping.jpg"
-       alt="Dynamic Mapping of Environmental Noise with IoT"
-       style="
-         float:left;
-         width:320px;
-         height:auto;
-         margin:0 24px 12px 0;
-         padding:6px;
-         border:1px solid #dddddd;
-         border-radius:4px;
-         box-shadow:0 2px 8px rgba(0,0,0,0.15);
-       ">
+<div class="research-item">
 
-  <h4 style="color:blue; font-size:16px; margin-top:0;">
-    <b>Dynamic Mapping of Environmental Noise with IoT</b>
-  </h4>
+  <img
+    src="/images/research/noisemapping.jpg"
+    alt="Dynamic Mapping of Environmental Noise with IoT"
+    class="research-image"
+  >
 
-  <p style="text-align:justify; margin-top:0;">
-    Environmental noise poses a growing threat to public health and sustainable
-    urban development. However, conventional noise-mapping approaches largely
-    rely on costly manual measurements or computational models that provide
-    coarse-grained and often static estimates. To address this gap, we investigate
-    DAMPEN, a versatile wireless acoustic sensor network for real-time,
-    fine-grained, and large-scale environmental noise mapping. DAMPEN integrates
-    acoustic sensor networks, mobile crowdsensing, edge–cloud computing, and
-    AI-assisted analytics to support dynamic visualization, noise-source
-    recognition, personal exposure assessment, and data-driven noise mitigation.
-    Our research further explores dependable multimedia transmission,
-    energy-efficient and event-triggered sensing, and defenses against inaudible
-    sound attacks. The long-term goal is to build a low-cost, scalable,
-    easy-to-maintain, sustainable, dependable, and trustworthy sensing
-    infrastructure for smart cities and industrial environments. Related papers
-    have been published in <span class="research-venue">IEEE Network 2020</span>
-    <a href="https://chrisye-liu.github.io/files/ye20noisemap.pdf"
-       target="_blank" rel="noopener noreferrer">[Paper]</a>
-    and <span class="research-venue">IEEE Industrial Electronics Magazine 2021</span>
-    <a href="https://chrisye-liu.github.io/files/ye21industrialnoise.pdf"
-       target="_blank" rel="noopener noreferrer">[Paper]</a>.
-  </p>
+  <div class="research-content">
 
+    <h4><b>Dynamic Mapping of Environmental Noise with IoT</b></h4>
+
+    <p>
+      Environmental noise poses a growing threat to public health and sustainable
+      urban development. However, conventional noise-mapping approaches largely
+      rely on costly manual measurements or computational models that provide
+      coarse-grained and often static estimates. To address this gap, we investigate
+      DAMPEN, a versatile wireless acoustic sensor network for real-time,
+      fine-grained, and large-scale environmental noise mapping. DAMPEN integrates
+      acoustic sensor networks, mobile crowdsensing, edge鈥揷loud computing, and
+      AI-assisted analytics to support dynamic visualization, noise-source
+      recognition, personal exposure assessment, and data-driven noise mitigation.
+      Our research further explores dependable multimedia transmission,
+      energy-efficient and event-triggered sensing, and defenses against inaudible
+      sound attacks. The long-term goal is to build a low-cost, scalable,
+      easy-to-maintain, sustainable, dependable, and trustworthy sensing
+      infrastructure for smart cities and industrial environments. Related papers
+      have been published in <span class="research-venue">IEEE Network 2020</span>
+      <a href="https://chrisye-liu.github.io/files/ye20noisemap.pdf"
+         target="_blank" rel="noopener noreferrer">[Paper]</a>
+      and <span class="research-venue">IEEE Industrial Electronics Magazine 2021</span>
+      <a href="https://chrisye-liu.github.io/files/ye21industrialnoise.pdf"
+         target="_blank" rel="noopener noreferrer">[Paper]</a>.
+    </p>
+
+  </div>
 </div>
-
-<div style="clear:both;"></div>
 
 
 <hr class="research-divider">
