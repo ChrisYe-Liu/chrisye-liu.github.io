@@ -1,0 +1,13 @@
+@inproceedings{10.5555/3451271.3451282,
+author = {Tian, Pei and Ma, Xiaoyuan and Boano, Carlo Alberto and Liu, Ye and Yang, Fengxu and Tian, Xin and Li, Dan and Wei, Jianming},
+title = {ChirpBox: An Infrastructure-Less LoRa Testbed},
+year = {2021},
+publisher = {Junction Publishing},
+address = {USA},
+abstract = {A key obstacle hindering the development of large-scale LoRa testbeds outdoors is the common lack of a backbone infrastructure allowing to easily communicate with the nodes and supply them with power. As a result, many LoRa installations are just deployed indoors or only support a handful outdoor devices, which does not allow proper testing. In this paper, we present ChirpBox, an infrastructure-less low-cost testbed in which the LoRa nodes are used not only to run experiments, but also to orchestrate all operations, including the dissemination of firmwares and the collection of log traces. We achieve this, among others, by developing an all-to-all multi-channel protocol based on concurrent transmissions that allows an efficient communication over multihop LoRa networks. After presenting ChirpBox's design and implementation, we deploy a test installation to evaluate its performance experimentally and showcase its operations.},
+booktitle = {Proceedings of the 2021 International Conference on Embedded Wireless Systems and Networks},
+pages = {115–126},
+numpages = {12},
+location = {Delft, The Netherlands},
+series = {EWSN '21}
+}

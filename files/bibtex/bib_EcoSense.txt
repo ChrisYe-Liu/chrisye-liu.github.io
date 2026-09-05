@@ -1,0 +1,9 @@
+@ARTICLE{7786108,
+  author={Liu, Ye and Chen, Qi and Liu, Guangchi and Liu, Hao and Yang, Qing},
+  journal={IEEE Communications Magazine}, 
+  title={EcoSense: A Hardware Approach to On-Demand Sensing in the Internet of Things}, 
+  year={2016},
+  volume={54},
+  number={12},
+  pages={37-43},
+  doi={10.1109/MCOM.2016.1600621CM}}

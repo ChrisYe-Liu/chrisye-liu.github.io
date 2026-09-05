@@ -1,0 +1,16 @@
+@incollection{LIU2017209,
+title = {Chapter 14 - Localization in Cyber-Physical Systems},
+editor = {Houbing Song and Danda B. Rawat and Sabina Jeschke and Christian Brecher},
+booktitle = {Cyber-Physical Systems},
+publisher = {Academic Press},
+address = {Boston},
+pages = {209-224},
+year = {2017},
+series = {Intelligent Data-Centric Systems},
+isbn = {978-0-12-803801-7},
+doi = {https://doi.org/10.1016/B978-0-12-803801-7.00014-6},
+url = {https://www.sciencedirect.com/science/article/pii/B9780128038017000146},
+author = {G. Liu and Q. Chen and Y. Liu and Q. Yang},
+keywords = {RFID localization, Received signal strength, Phase difference of arrival, Multipath profile, Hologram},
+abstract = {Wireless localization has been applied widely in cyber-physical systems, e.g., to detect and track objects. Among existing wireless localization solutions, radio-frequency identification (RFID) localization has attracted a lot of attention recently. The advantages of using RFID to localize objects include low cost and miniature size, no need of power supply, and high accuracy in an indoor environment. Despite these benefits, RFID localization faces many technical challenges, e.g., nonreal time signal processing and limited applicability in real-world applications. In this chapter, we first introduce the principles of existing RFID localization technologies and then detail the implementations of three classic RFID localization systems. In the end, we identify the limitations of existing RFID localization technologies and point out future research issues.}
+}

@@ -1,0 +1,10 @@
+@ARTICLE{10480324,
+  author={Liu, Ye and Li, Dong and Dai, Haipeng and Ma, Xiaoyuan and Boano, Carlo Alberto},
+  journal={IEEE Wireless Communications}, 
+  title={Understanding Concurrent Radiative Wireless Power Transfer in the IoT: Out of Myth, into Reality}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-8},
+  keywords={Wireless communication;Internet of Things;Interference;Transmitters;Wireless sensor networks;Wireless power transfer;Time-domain analysis},
+  doi={10.1109/MWC.022.2200592}}

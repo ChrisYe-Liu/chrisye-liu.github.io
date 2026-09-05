@@ -1,0 +1,9 @@
+@INPROCEEDINGS{9259407,
+  author={Baddeley, Michael and Boano, Carlo Alberto and Escobar-Molero, Antonio and Liu, Ye and Ma, Xiaoyuan and Raza, Usman and Römer, Kay and Schuß, Markus and Stanoev, Aleksandar},
+  booktitle={2020 IEEE 28th International Conference on Network Protocols (ICNP)}, 
+  title={The Impact of the Physical Layer on the Performance of Concurrent Transmissions}, 
+  year={2020},
+  volume={},
+  number={},
+  pages={1-12},
+  doi={10.1109/ICNP49622.2020.9259407}}

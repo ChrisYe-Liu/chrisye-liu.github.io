@@ -1,0 +1,10 @@
+@ARTICLE{10129192,
+  author={Gu, Bowen and Li, Dong and Liu, Ye and Xu, Yongjun},
+  journal={IEEE Transactions on Communications}, 
+  title={Exploiting Constructive Interference for Backscatter Communication Systems}, 
+  year={2023},
+  volume={71},
+  number={7},
+  pages={4344-4359},
+  keywords={Interference;Backscatter;OFDM;Internet of Things;Array signal processing;Simulation;Signal to noise ratio;Backscastter communication;constructive interference;Kullback-Leibler divergence;resource optimization},
+  doi={10.1109/TCOMM.2023.3277519}}

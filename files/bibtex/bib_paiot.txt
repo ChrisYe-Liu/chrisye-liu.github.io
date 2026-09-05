@@ -1,0 +1,14 @@
+@inproceedings{10.5555/3324320.3324361,
+author = {Yang, Fan and Shu, Lei and Liu, Ye and Li, Kailiang and Huang, Kai and Zhang, Yu and Sun, Yuanhao},
+title = {Poster: Photovoltaic Agricultural Internet of Things the Next&nbsp;Generation of Smart Farming},
+year = {2019},
+isbn = {9780994988638},
+publisher = {Junction Publishing},
+address = {USA},
+abstract = {In the poster, a new paradigm of smart farming is proposed for the first time. It is named as Photovoltaic Agricultural Internet of Things (PAIoT). We envision the scenarios of PAIoT in terms of energy supply, communication method and computing models. In addition, PAIoT’s advantages are presented. Finally, the open research issues are discussed for the PAIoT.},
+booktitle = {Proceedings of the 2019 International Conference on Embedded Wireless Systems and Networks},
+pages = {236–237},
+numpages = {2},
+location = {Beijing, China},
+series = {EWSN '19}
+}
