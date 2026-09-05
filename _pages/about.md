@@ -26,6 +26,7 @@ Research Areas
 
 News
 ------
+* [09/2026] Invited to serve as TPC member for [IEEE ICC 2027 - IOT (ICC 2027 - IEEE International Conference on Communications: Next-Generation Networking and Internet)](https://icc2027.ieee-icc.org/).
 * [08/2026] Invited to serve as TPC member for [IEEE ICC 2027 - IOT (ICC 2027 - IEEE International Conference on Communications: IoT & Sensor Networks)](https://icc2027.ieee-icc.org/).
 * [06/2026] Our paper on "[3-D Radiative Wireless Power Transfer for the Internet of Batteryless Things: Modeling and Experiments](https://ieeexplore.ieee.org/document/11573809)" was accepted by IEEE Transactions on Industrial Informatics!
 * [06/2026] Our paper on "[When Drone-Vehicle Networks Meets mmWave Communications: Current Status, Challenges, and Future Research Directions](https://ieeexplore.ieee.org/document/11586761)" was accepted by IEEE Wireless Communications!
